@@ -1,0 +1,889 @@
+sentence	error label	split	label
+Den största fördelen med platsen är att jag kan integrera mig bra i samhället inom att vara bland svenska människor .	L-W	test	1
+Du kan bjuda kolleger på fika eftersom det är trevligt .	L-W	test	0
+␤ Avslutningsvis är kläder en viktig symbol för att kunna markera vilken grupp och kultur man tillhör .	L-Der	test	0
+Finns det verkligen en så stor hop mellan en 18- och en 16-åring ?	L-W	test	1
+Kan du bjuda hem arbetskamraterna för att fika tillsammans med dom , på helgen erbjuda dina vänner och äta middag tillsammans och försöka att prata med arbetskamraterna på rasten ?	L-W	test	1
+Rösträtten kan skapa en tillhörighetskänsla , att ens åsikt räknas .	L-W	test	0
+En vinter hade jag inte alls någon vinterjacka , eftersom jag inte hittade någon som jag skulle ha velat ha .	L-W	test	0
+Sverige är nytt för mig och har 4 årstider , höst , vår , sommar och vinter .	L-W	test	0
+Jämför : Jag bodde i ett litet rum när jag kom till Sverige , ja , det är stora skillnader , men nu trivs jag med mitt nya hem här dit jag flyttade .	L-W	test	0
+För mig är kläder viktigt men inte så väldigt .	L-W	test	0
+Men vi vet redan att även de mindre välutvecklade länder , det vill säga länder som försörjer sig själva på jordbruk , håller på att ständigt utvecklas och moderniseras och kommer behöva internationellt samarbetning , samordning och bidrag .	L-Der	test	1
+Men nu när jag bor i en fin lägenhet med min familj mår jag mycket bättre än förut .	L-W	test	0
+Den största fördelen med platsen är att jag kan integrera mig bra i samhället genom att vara bland svenska människor .	L-W	test	0
+En vinter hade jag inte alls någon vinterjacka , eftersom jag inte hittade någon som jag skulle ha velat ha .	L-W	test	0
+Det skapas en " vi-och-dom-känsla " eftersom vissa inte talar majoritetsspråket i landet .	O-Comp	test	0
+På Sveriges riksdags hemsida kan man läsa om hur Sverige bidrar med att skydda dessa språk med hjälp av statligt bidrag .	L-W	test	0
+Kan du invitera hem arbetskamraterna för att fika tillsammans med dom , på helgen erbjuda dina vänner att äta middag tillsammans och försöka att prata med arbetskamraterna på rasten ?	L-W	test	1
+Men ändå så finns det folk som tycker och vill påpeka att man bör rädda språk som tynar bort för att inte vi ska få för få språk i världen eller för att människor som talar språken som tynar bort inte ska förlora sina förfäders språk .	L-W	test	0
+När han får barn fruktar han att barnet ska dö , och dessutom när de tar ut skilsmässa ska hon ta hälften av det som är hans .	L-W	test	1
+Därför måste jag gå tillbaka och gifta mig .	L-W	test	1
+Det hjälpte mig mycket för att hitta jobb .	L-Der	test	0
+Alex tar henne som en liten mor eftersom hon tar så bra hand om honom .	L-W	test	1
+Det är ingen tvekan om att rösträtten skall utvärderas och kanske bör man rösta i en referendum .	L-FL	test	1
+Med alla de avbrutna utmaningarna blev det en lättare väg till förändringen .	L-W	test	0
+Min bostad är stor och har gul färg , ett fint hus .	L-W	test	0
+Det enda vi kan säga till sådana människor är : kom ihåg vem du är och vad du är gjord av , kom ihåg kärleken dina föräldrar gav till dig .	L-W	test	0
+Du begränsar dig själv som människa så mycket när du endast talar ditt minoritetsspråk i ett samhälle där ett annat språk talas av fler personer .	L-Der	test	0
+I somras betalade jag för en kurs i ekonomi som fanns i Petersborg .	L-W	test	0
+Idag finns det olika sätt att vara familj på , till exempel bonusfamilj , kärnfamilj och enförälderfamilj , enligt Vårdguiden , 1177 .	O-Comp	test	0
+Jag anser att det inte är en bra idé att ge bort pengar i present därför att vi måste ge en sak som visar hur mycket vi uppskattar och tycker om dem .	L-W	test	0
+Jag tycker att av kläderna kan vi förstå lite om en person , men vi kan inte vara säkra på vad vi tycker eftersom vad människor har på sig kanske inte betyder någonting för hur de är i verkligheten .	L-W	test	0
+Mina vardagskläder är inte så intressanta därför att jag väljer att ha på mig dem som är bekvämast och okomplicerade med färger och mönster .	L-W	test	1
+Det finns stor familj och en små familjer .	O-Comp	test	1
+Detta borde inte vara så , eftersom en människa är mycket mer än de kläder den har på sig .	L-W	test	1
+För att pengar tar alltid slut , men en present kommer hon att ha kvar länge .	L-W	test	0
+Vi har alla någonting som är jätte viktig för oss , och som inte kan för pengar köpas .	O-Comp	test	1
+Till vissa är det familjen , för andra ett armband , och för morfar ett äppelträd .	L-W	test	1
+Jag upplever också att relationen till kläder och utseende är olika i olika perioder i livet .	L-W	test	0
+Idag finns det många typer av relationer eller förhållanden som man kan välja , bland annat samboförhållande som betyder att man bor med sin kärlek under ett förhållande utan att gifta sig , och särboförhållande som betyder att man har ett förhållande med sin kärlek utan att bo tillsammans .	L-W	test	1
+För vissa är det familjen , till andra ett armband , och för morfar ett äppelträd .	L-W	test	1
+Jag tycker att det är respektfullt att man ger pengar i present och det har blivit som en tradition hos oss .	L-W	test	0
+En vinter hade jag inte alls någon vinterjacka , eftersom jag inte hittade en som jag skulle ha velat ha .	L-W	test	1
+Avslutningsvis så vill jag säga att ett folk utan språk är ett folk utan hjärta och det finns massor med okunniga människor som föredrar världens tjugo största språk men senare ångrar sig .	L-W	test	0
+Jag anser att det inte är en bra idé att ge bort pengar i present därför att vi måste ge en sak som visar hur mycket vi uppskattar och kära dem .	L-W	test	1
+Jag tycker om min skola och min skola har många studenter som studerar svenska .	L-W	test	0
+Yttre egenskaper : När romanen är slut är han 13 år .	L-W	test	0
+Nu tycker jag att klubben är en av de viktigaste platserna som jag alltid vill bli delaktig i .	L-W	test	1
+Därför måste skolan se till att vi lär oss fler än ett språk för att vi ska kunna fortsätta på den raka utvecklingen och ha en ljus framtid .	L-W	test	1
+Detta kan leda till mindre fientlighet , mindre kriminalitet och ett slut på segregation i jordens alla hörn .	L-W	test	0
+Det var mycket tydligt och jag kände mig intressera .	L-Der	test	1
+Dessutom finns det tider när jag inte hinner att tänka så mycket om kläderna och inte bryr mig så mycket om vad jag ska ta på mig .	L-W	test	1
+Jag kan absolut förstå att vi inte kommer ha många funktionsdomäner i den ekonominska och tekniska världen men , som sagt , så kommer vi bevara traditioner , vilket är en av de största tjänst för dem och en stor vinst för oss då vi kan ha livets äventyr i deras land eller by .	L-W	test	1
+Jag är bra .	L-W	test	1
+På den här platsen spelar jag basket i ett damlag och coachar ett litet lag för barn mellan 4 och 6 .	L-Der	test	0
+Vad vi verkligen bör införa är ett förbud mot främmande språk på dessa platser .	L-W	test	0
+Jag var där med min man förra veckan och den var som en dröm .	L-W	test	0
+För det första måste jag lära mig svenska språket för att ha många vänner och grannar .	L-W	test	1
+Jag heter Maria Svensson och jag har anmält mig till kursen i Business Administration under vinterterminen .	L-W	test	0
+Samhället systemet utvecklades och hjälpte till mer så att kvinnorna kunde försörja sig själva och leva ensamma med barn eller utan och papporna kunde göra på samma sätt .	O-Comp	test	1
+Dessa människor har ett dilemma med hyresrätter .	L-W	test	0
+Om situationen blir dålig måste jag känna mig stark .	L-W	test	0
+För vissa är det familjen , för andra ett armband , och för morfar ett äppelträd .	L-W	test	0
+Undervisningen i demokrati och politik ska ses över och ska få en ännu mer prioriterad plats i läroplanen .	L-W	test	0
+I dagens läge är den förändring som har skett i familjens form klar för alla , och det är viktigt att vi utreder det från början .	L-W	test	1
+Det finns så många i världen som inte har tillgång till skola , mat , hus eller även något land att vara i .	L-W	test	1
+Alla kände sig ännu mer trygga och fick mer frihet och kunde utrycka sig hur som helst och berätta om sina laster så småningom .	L-W	test	0
+Detta pågår varje dag .	L-W	test	0
+Jag tycker om min skola och min skola har mycket studenter som studerar svenska .	L-W	test	1
+Jag heter Maria Svensson och jag har anmält mig till kursen i Business Administration under vinter semester .	O-Comp	test	1
+Det var en god idé för jag träffade människor och pratade med dem på tyska .	L-W	test	0
+Kan du bjuda hem arbetskamraterna för att fika tillsammans med dom , på helgen erbjuda dina vänner att äta middag tillsammans och försöka att prata med arbetskamraterna på rasten ?	L-W	test	0
+Därför började jag min i kurs deutsch och jag gick på olika fester .	L-FL	test	1
+För det första , att rädda små språk är som att göra världens befolkning och mänskligheten hela en tjänst , eftersom det finns massor med människor i världen som har ett starkt engagemang för de små språken .  De vill resa och lära sig nya , goda och fina saker såsom att laga traditionell mat , vitsar och ordspråk .	L-W	test	0
+De har inget dilemma med hyresrätter .	L-W	test	0
+Låt mig säga att det är inte för sent och rädda de små språken , vi måste ta steget nu .	L-W	test	1
+Det kan vara kroppsspråk men främst sker det genom talandet .	L-Der	test	1
+300 miljoner kronor är en stor summa med pengar , som jag personligen hade föredragit att istället donera till att rädda miljön , människor som lever i fattigdom eller till det engelska språket för att utbreda det så att alla i världen har tillgång till att lära sig engelska i skolan .	L-W	test	1
+Jag kan absolut förstå att vi inte kommer ha många funktionsdomäner i den ekonominska och tekniska världen men , som sagt , så kommer vi bevara traditioner , vilket är en av de största  vinsterna för dem och en stor vinst för oss då vi kan ha livets äventyr i deras land eller by .	L-W	test	0
+Detta förklarar Åström med att föräldrar kan man alltid vara , men att hitta någon som man kan bilda ett bra par med är viktigare om äktenskapet ska hålla .	L-W	test	0
+Jag var där med min man förra veckan och den var samma en dröm .	L-W	test	1
+Den största fördelen med platsen är att jag kan integrera mig bra i samhället genom att vara bland svenska människor .	L-W	test	0
+Jag kan absolut förstå att vi inte kommer ha många funktionsdomäner i den ekonominska och tekniska världen men , som sagt , så kommer vi bevara traditioner , vilket är en av de största  vinsterna för dem och en stor vinst för oss då vi kan ha livets äventyr i deras land eller by .	L-W	test	0
+Nu för tiden är pengarna en jätteviktig del av alla människoliv .	O-Comp	test	0
+Om man kan fler språk har man mer möjligheter att använda sig av dem vilket leder till utveckling .	L-W	test	1
+Det är det äkta begreppet för familjen .	L-W	test	0
+I kombination med en fyraårig mandatperiod säkerställs att ingen individ eller inget parti kan missbruka makten som i diktaturer eller enpartistater .	O-Comp	test	0
+Jag anser att när människor flyttar till ett nytt land , behöver de känna sig lite hem , och för mig är den här föreningen som ett hem .	L-W	test	1
+De som undervisar bör väcka intresse för demokrati och politik hos sina elever .	L-W	test	0
+Jag heter David och jag bor i Norrby och jag ska studera kemi på C-skola i augusti .	L-W	test	0
+Romanen visar genom Fru Leti för alla människor i världen att det finns goda och dåliga människor i världen .	L-W	test	0
+Jag tror att du förstår mitt problem så att du även kan ta bort mig från kursen .	L-Der	test	0
+När han får barn fruktar han att barnet ska dö , och dessutom när de tar ut skilsmässa ska hon ha hälften av det som är hans .	L-W	test	0
+Slutligen skulle jag vilja säga det att man får inte jämföra sin familj med andras familjer eftersom varje familj har sin egen fall .	L-W	test	1
+Jag anser att man ska inte oroa sig för vad andra tycker och att det som är viktigt är att ha det bra med vad man gör i livet .	L-W	test	0
+Därför började jag min i kurs tyska också jag gick på olika fester .	L-W	test	1
+När jag fick första gången i A-land , kände jag mig så ensam .	L-W	test	1
+Jag tror att författaren har skrivit den här boken för att berätta om kärlek och kanske säga att ibland blir inte allt som man vill och man behöver göra sig stark .	L-W	test	0
+I dagens läge är den förändring som har skett gällande familjens form klar för alla , och det är viktigt att vi utreder det utifrån början .	L-W	test	1
+För att de ska kunna komma ikapp de välutvecklade och moderna länderna krävs det att vi i tidig ålder lär oss fler än ett språk i skolan och därmed ökar tryggheten , den ekonomiska tillväxten , kunskapen och även minskar fattigdomen med dessa förbättrade marginaler och förhållanden .	O-Comp	test	0
+Visserligen studerade jag på universitetet , men det var svårt att prata med människor från orten .	L-W	test	0
+Då kommer frågan om jag ska ta ett extra pass eller ett till jobb ?	L-W	test	1
+Jag mår bra i D-svensk-stad , fastän jag alltid missade dig .	L-W	test	1
+Tänk positivt istället då kommer du att hitta många betydelsefulla saker inom din familj .	L-W	test	1
+Hammer menar att man skapar egna förklaringar eftersom önskan att tro och längtan after andlighet och mysterium är stora i dagens samhälle , och att detta beror på vår industrialiserade och skeptiska värld .	L-FL	test	1
+Slutligen skulle jag vilja säga det att man får inte jämföra sin familj med andras familjer eftersom varje familj har sin egen situation .	L-W	test	0
+Hoppas du kan svara till mitt mejl snart .	L-W	test	1
+Men det borde nämnas att i vår tid finns det fortfarande vissa samhällen som adopterar den traditionella inställningen till familjen .	L-W	test	0
+Jag har en tradition familj och min mamma följer den traditionella kulturen .	L-Der	test	1
+Mina vardagskläder är inte så intressanta därför att jag väljer att ha på mig dem som är bekvämast och okomplicerade i färger och mönster .	L-Der	test	0
+Mina vardagskläder är inte så intressanta därför att jag väljer att ha på mig dem som är bekvämast och okomplicerade i färger och mönster .	L-W	test	0
+På grund av dessa förändringar har familjens roll vårt i samhälle förändrats över tid .	L-W	test	0
+Det finns ett stort köpcentrum där man kan köpa alla varor .	L-W	test	0
+Våra barn och ungdomar lever och växer upp i en värld som ger väldigt många intryck och ständig tillgång till information från olika källor .	L-W	test	0
+Jag kan inte komma tillbaka till Sverige till efter december och därför kan jag inte gå kursen .	L-W	test	1
+Jag hoppas att du håller med mig .	L-W	test	0
+Familjens form har genomgått denna utveckling och påverkats av det , vilket ställer oss inför en viktig fråga : Varför och hur har familjens roll och form förändrats med tiden ?	L-W	test	0
+Jag tror att föräldrarnas felaktiga beslut gjorde att Alex blev ett gatubarn .	L-Der	test	0
+Familjen måste alltid delta i allting i livet och varje person ska veta sin roll i och utanför huset .	L-W	test	0
+Men Alex får en ny bekräftelse .	L-W	test	1
+När han får barn fruktar han att barnet ska dö , och dessutom när de tar ut skilsmässa ska hon ha hälften av det som är hans .	L-W	test	0
+Finns det verkligen en så stor skillnad mellan en 18- och en 16-åring ?	O-Comp	test	0
+I andra miljöer eller i andra grupper man tillhör har klädseln stor betydelse och påverkar hur man ser på sig själv och på andra .	L-Der	test	0
+Det kan hjläpa dem till ett bra liv .	L-Der	test	0
+Slutligen skulle jag vilja säga det att man får inte jämföra sin familj med andras familjer eftersom varje familj har sin egen situation .	L-W	test	0
+Hon blev obotligt nyfiken i Alex liv .	L-W	test	1
+Det är en kärleksstad , och jag ska åka dit många gånger med min man och min familj eftersom de är min kärlek .	O-Comp	test	0
+Så det gjorde henne intressant .	L-Der	test	1
+Därför började jag min i kurs tyska och jag gick på olika fester .	L-W	test	0
+1 ␤ Klädseln ger en uppfattning om vem man är , vilken grupp man tillhör och från vilket samhälle man kommer och den är en betydelsefull symbol .	L-Der	test	0
+Hon blev obotligt nyfiken på Alex liv .	L-Der	test	0
+Jag kan absolut förstå att vi inte kommer ha många funktionsdomäner i den ekonominska och tekniska världen men , som sagt , så kommer vi bevara traditioner , vilket är en av de största  vinsterna för dem och en stor tjänst för oss då vi kan ha livets äventyr i deras land eller by .	L-W	test	1
+Så det gjorde henne intresserad .	L-Der	test	0
+Då uppstår frågan av jag ska ta ett extra pass eller ett till jobb ?	L-W	test	1
+Han har lätt för att lita på andra .	L-W	test	0
+Det vad morfar hade gjorde är ett bra exempel på att pengarna är viktiga men inte viktigare än människor .	L-W	test	1
+Det finns också lekaplatser för barnen .	L-Der	test	1
+Alex ser henne som en liten mor eftersom hon tar så bra hand om honom .	L-W	test	0
+Visserligen kan du inte dansa , men försök att gå till en danskurs .	L-W	test	1
+Som Lars Bengtsson skriver på dagenssamhälle.se finns det däremot större skillnader mellan tjejer och pojkar .	L-W	test	1
+Hon heter Desirée och han heter Benny , och de träffas på en kyrkgård där Desirées mans grav ligger .	L-Der	test	1
+Men jag tycker att min klädsmak är ganska neutral och passar bra , båda på jobbet och på fritiden .	L-Der	test	1
+Allt är bra , för att jag kan inte bo ensam och min mamma lagar så bra mat .	O-Comp	test	0
+Förutom att det kostar enormt mycket pengar så gör det ingen skillnad i samhället , eftersom det är få människor som talar språken och majoriteten av dessa är äldre människor .	L-W	test	0
+Jag ska börja kursen i oktober .	L-W	test	0
+1 ␤ Klädelse ger en uppfattning om vem man är , vilken grupp man tillhör och från vilket samhälle man kommer och den är en betydelsefull symbol .	L-Der	test	1
+Däremot tror jag att det är din personlighet som uppskattas mer av andra senare .	L-W	test	0
+Hon pratade med alla gatubarn , och särskilt hörde hon på det annorlunda gatubarnets sorgliga livshistoria och bestämde sig för att skriva en roman om hans livshistoria .	L-W	test	1
+Från A-stad åker jag till min lilla by som heter C-stad och den är 2 timmar från A-stad med bil .	L-W	test	1
+Det kan hjläpa dem till ett bra liv .	L-W	test	0
+De ger ett löfte att de ska kär varandra .	L-W	test	1
+Ytterligare en fördel är att de låtter mig att känna mig som hemma eftersom de är min familj nu .	L-W	test	1
+Romanen visar genom Fru Leti till alla människor i världen att det finns goda och dåliga människor i världen .	L-W	test	1
+Finns det någonting vi kan göra åt saken , ska vi ta steget och åtminstone försöka rädda dem eller ska vi ge upp ?	L-W	test	0
+Du ska gå med dina arbetskamrater på lunch eller ibland på fika .	L-W	test	0
+I träningar brukar jag vara glad och upphetsad eftersom jag känner mig hemma .	L-W	test	1
+finns och Mycket en stor tro längtan efter andlighet och en värld full av mysterium angående detta sammanhang .	L-W	test	1
+Traditioner som innehåller massor med fina låtar , dikter , historier osv ... Enligt min åsikt är att rädda de små språken som att rädda en hel värld och vi möjliggör för dem att ge i arv deras språk från generation till generation genom vår hjälp .	L-W	test	0
+Det spenderas absurda mängder pengar för ett fåtal människor som egentligen inte behöver dessa tjänster .	L-W	test	1
+Det finns en tanke att sänka åldersgränsen för rösträtten till 16 år , vilket redan är gjort i flera länder , och Europarådet har antagit en resolution om att 16-åringar bör rösta i Europavalen .	O-Comp	test	0
+Mina dagligen kläder är inte så intressanta därför att jag väljer att ha på mig dem som är bekvämast och okomplicerade i färger och mönster .	L-Der	test	1
+Men man kan inte vara säker på att den som är i 50-årsåldern inte är lika lätt att locka av extrempartierna .	L-W	test	1
+Låt oss bli tillsammans och hjälpa dem och göra detta ämne mer aktuellt .	L-W	test	1
+Men nu när jag bor i en fin lägenhet med min familj mår jag mycket bättre än förut .	L-W	test	0
+Mammorna tog mer ansvar för familjen , och papporna släppte ifrån sig mer ansvar .	L-W	test	0
+Sänka åldern till 16 är en bra idé , fördelarna är stora : mer engagerade ungdomar och viktiga ungdomsfrågor lyfts på den politiska agendan .	L-W	test	0
+Mitt hus har 4 rum och 3 sovrum , 2 bilgarage och ett kök .	O-Comp	test	0
+Hans mamma vill inte intressera sig för honom .	L-Der	test	0
+På den här platsen spelar jag basket i ett damslag och coachar ett litet lag för barn mellan 4 och 6 .	L-Der	test	1
+Du avgränsar dig själv som människa så mycket när du endast talar ditt minoritetsspråk i ett samhälle där ett annat språk talas av fler personer .	L-Der	test	1
+Det som morfar hade gjorde är ett bra exempel på att pengarna är viktiga men inte viktigare än människor .	L-W	test	0
+Dessutom kan du gå i kyrkan , där hittar du också nya vänner .	L-W	test	0
+Från utseendet kan vi inte förstå om man är professionell eller inte eftersom man kanske ser seriös ut bara för arbetsplatsens skull .	L-W	test	1
+Mammorna tog mer ansvar för familjen , och papporna försumda mer ansvar .	L-W	test	1
+Av utseendet kan vi inte förstå om man är professionell eller inte eftersom man kanske ser seriös ut bara för arbetsplatsens skull .	L-W	test	0
+Slutligen håller jag med om det andra synsättet eftersom min religion säger att en man ska gifta sig med en kvinna , och jag tror att en man har svårt att bo ensam , som i det första fallet , och det är konstigt för mig att det finns många typer av familjer som sambor , särbor och mambor även om jag respekterar dem alla .	L-W	test	0
+Enligt mig hade dom gynnats på många fler sätt än om de fortsatte hålla fast vid sina språk som talas av så få personer , dessutom hade det varit enklare för folk att komma in mer i samhället om de kunde kommunicera med majoritetsbefolkningen .	L-W	test	0
+Det kan vara kroppsspråk men främst sker det genom talet .	L-Der	test	0
+Jag förstår att det är svårt att hitta nya vänner där men du måste träffa nya vänner .	L-W	test	0
+␤ På komvux träffar jag också jättemycket nya vänner .	L-W	test	0
+Det hjälpte mig mycket för att hitta jobba .	L-Der	test	1
+Jag heter Maria Svensson och jag har anmält mig för kursen i Business Administration under vinterterminen .	L-W	test	1
+Men man kan inte vara säker på att den som är i 50-års-åldern inte är lika lätt att locka för extrempartierna .	O-Comp	test	1
+Slutligen håller jag med om det andra synsättet eftersom min religion säger att en man ska gifta sig med en kvinna , och jag tror att en man har svårt att bo ensam , som för det första fallet , och det är konstigt för mig att det finns många typer av familjer som sambor , särbor och mambor även om jag respekterar dem alla .	L-W	test	1
+Däremot tycker jag att det är din personlighet som uppskattas mer av andra senare .	L-W	test	1
+Jag kan absolut förstå att vi ej kommer ha många funktionsdomäner i den ekonominska och tekniska världen men , som sagt , så kommer vi bevara traditioner , vilket är en av de största  vinsterna för dem och en stor vinst för oss då vi kan ha livets äventyr i deras land eller by .	L-W	test	1
+Självklart är det fint att du kan prata med dina äldre släktingar osv men man missar så många chanser om man endast håller fast vid sitt minoritetsspråk , t.ex. blir det svårare att få jobb då färre personer talar det .	L-W	test	0
+När han får barn fruktar han att barnet ska dö , och dessutom när de tar ut skilsmässa ska hon ha half av det som är hans .	L-Der	test	1
+De undrade varför : Vad hade hänt ?	L-W	test	0
+Ja , det finns många affärer nära mitt hem , till exempel ica , apotek och frisör , och från bussen och tunnelbanan är det nära hem , omkring 4 - 5 minuter .	L-W	test	0
+Hammer menar att man skapar egna förklaringar eftersom önskan att tro och längtan efter andlighet och mysterium är stora i dagens samhälle , och att detta beror på vår industrialiserade och skeptiska värld .	L-W	test	0
+Där finns människor med samma intressen .	L-Der	test	0
+Men det är viktigt hur man bor , för att om man bor på en dålig plats är det inte bra för livet .	L-W	test	0
+Familjen betyder kärlek , trygghet , glädje och inspiration .	L-W	test	0
+Som Lars Bengtsson skriver på dagenssamhälle.se finns det däremot större skillnader mellan tjejer och killar .	L-W	test	0
+Du ska gå med dina arbetskamrater för lunch eller ibland på fika .	L-W	test	1
+Djur förstår sina egna barn men människor förstår dem inte .	L-W	test	0
+Och enligt vad Richard Bach har skrivit är bandet som sammanbinder din sanna familj inte av blod utan av respekt och glädje för varandra .	L-W	test	0
+Å ena sidan tycker några att det är bra att man inte är bunden till sin kärlek under en viss tid utan överens , å andra sidan tycker några att denna förändring är dålig eftersom en man kommer att demonisera över sin fru genom att kvinnor bara kommer att ha ett uppdrag som är att de ska vara hemma med sina barn samt ta över hushållet också .	L-W	test	1
+Istället bör vi satsa mer på bättre saker som gör till en förändring , saker som hjälper andra och oss , saker som kommer att påverka våra barn och barnbarn .	L-W	test	1
+Men nu när jag bor i en fin lägenhet med min familj mår jag mycket bättre fråm förut .	L-W	test	1
+Hjärnan tar emot ny information på ett mycket enklare sätt och bearbetar informationen snabbare vilket leder till att man direkt får djupare förståelse och insikt i det nya ämnet man arbetar med .	L-W	test	0
+Kom ihåg att de båda gillar konst , så det skulle vara bra om vi köpte en stor , vacker tavla som de kan ligga i sitt nya hus .	L-W	test	1
+På kvällen var vi vid Eiffeltornet , sedan åt vi middag på en mycket fin restaurang .	L-W	test	0
+I tusentals år var familjen ett fast begrepp , vilket utgjorde en enda bild , en far som jobbar och försörjer familjen själv och en mor som uppfostrar barnen och tar hand om alla familjemedlemmar och hushållsarbetet , och barn som helt försörjs av familjesystemet .	L-Der	test	0
+Att för mig leva i ett samhälle som är mer flexibelt när det gäller klädelse gör att jag inte behöver tänka så mycket på det , men ibland anpassar jag min klädsel för de situationer som förekommer i min vardag .	L-Der	test	1
+Det är en mycket fin stad enligt mig .	L-W	test	0
+Jag förstår inte hur föräldrarna kunde lämna sitt barn till ett osäkert och farligt liv .	L-Der	test	0
+Basket klub hjälper mig att ha det underbart och jag är jätteglad att jag är en del av den platsen .	O-Comp	test	1
+Han är mycket arg på sina föräldrar men han har längtat efter sina föräldrar utan att tänka på vad de har gjort mot honom .	L-W	test	0
+Därför borde vi ha respekt för varandra och varandras känslor och behov .	L-W	test	0
+Familjen betyder kärlek , trygghet , glad och inspiration .	L-W	test	1
+Jag tycker att det kommer att bli bra för dig .	L-W	test	1
+Jag heter Maria Svensson och jag har anmält mig till kursen i Business Administration under vinterterminen .	L-W	test	0
+För det andra så tycker jag inte att det gynnar folk att tala ett språk som talas av en mindre grupp i ett samhälle , bortsett från ett kulturellt perspektiv .	L-W	test	1
+Jag tycker att av kläderna kan vi förstå lite om en person , men vi kan inte vara säkra på vad vi tycker eftersom vad människor har på sig kanske inte betyder någonting för hur de är i verkligheten .	L-W	test	0
+Han är mycket arg över sina föräldrar men han har längtat efter sina föräldrar utan att tänka på vad de har gjort mot honom .	L-W	test	1
+Att för mig leva i ett samhälle som är mer flexibelt när det gäller klädseln gör att jag inte behöver tänka så mycket på det , men ibland anpassar jag min klädsel för de situationer som förekommer i min vardag .	L-Der	test	0
+Mina dagligen kläder är inte så intressanta därför att jag väljer att ha på mig dem som är bekvämast och okomplicerade i färger och mönster .	O-Comp	test	1
+Av utseendet kan vi inte förstå att man är professionell eller inte eftersom man kanske ser seriös ut bara för arbetsplatsens skull .	L-W	test	1
+För vissa är det familjen , för andra ett armband , och till morfar ett äppelträd .	L-W	test	1
+den Men svåra ekonomiska situationen ledde till att detta också försvann med tiden , vilket öppnade vägen till utveckling .	L-W	test	1
+Avslutningsvis berättar Åström kring att ett äktenskap med ambition att få ihop kärlek , arbete och föräldraskap överlag är svårare vilket också kan betyda att man bör hålla isär kärlek och äktenskap ifall man vill vara ett äkta par och föräldrar .	L-W	test	1
+␤ Genom hur man ser ut kan vi förstå några saker men inte allt .	L-W	test	0
+Idag finns det många typer av relationer eller förhållanden som man kan vilja , bland annat samboförhållande som betyder att man bor med sin kärlek i ett förhållande utan att gifta sig , och särboförhållande som betyder att man har ett förhållande med sin kärlek utan att bo tillsammans .	L-W	test	1
+Jag är glad att du mår bra i Stockholm .	L-W	test	0
+För vissa är det familjen , för andra ett armband , och för morfar ett äppelträd .	L-W	test	0
+De tror att att vara gift det är mycket svårt att för de dessutom ska ansvara för andra , t.ex. om en man är gift med en kvinna bör han ge henne pengar och handla mycket mat till henne och han tänker mycket på barn .	L-Der	test	0
+Bröllopet sker snart och vi måste bestamma vad vi ska köpa som present .	L-W	test	0
+Men denna definition stämmer inte ständigt nuförtiden eftersom det finns många avgörande faktorer som bestämmer vad ordet familj kan betyda .	L-W	test	1
+Idag finns det många typer av relationer eller förhållanden som man kan välja , bland annat samboförhållande som betyder att man bor med sin kärlek i ett förhållande utan att gifta sig , och särbo som betyder att man har ett förhållande med sin kärlek utan att bo tillsammans .	L-W	test	1
+Jag tyckte att den var spännande för att romanen handlar om två personer som är kära med varandra och vill bo tillsammans , men det var också en ganska irriterande bok , för att trots att de älskar varandra orkar hon inte lämna stan och sitt jobb och han orkar inte lämna sin bonde eller gården och bo tillsammans med henne .	L-W	test	1
+Men jag anser först och främst att språket är som själen , det som ger oss livskraft , egenskap och karaktär .	L-W	test	1
+Man får bara hålla sin familj kär och hoppas att man ska komma mer överens i de flesta familjer , anser jag .	L-Der	test	0
+En vinter hade jag inte alls en vinterjacka , eftersom jag inte hittade någon som jag skulle ha velat ha .	L-W	test	1
+Författaren påstår att genom otaliga relationer och genom att utsättas för många separationer lär vi oss att människor är utbytbara , vilket visar sig i att självständighet är en uppskattad sak i barnuppfostran ifall man har svårt att hantera närhet och distans i en relation .	L-W	test	1
+På grund av dessa förändringar har familjens roll vårt i samhälle förändrats under tid .	L-W	test	1
+Vidare kan jag tar de här aktiviteterna som erfarenheter som kommer att hjälpa mig förstå hur samhället fungerar i Sverige .	L-W	test	1
+Jag tycker att av kläderna kan vi förstå lite om en person , men vi kan inte vara säkra på vad vi tycker eftersom vad människor har på sig kanske inte betyder någonting för hur de är i verkligheten .	L-W	test	0
+Jämför : Jag bodde i ett litet rum när jag kom till Sverige , ja , det är mycket skillnader , men nu trivs jag med mitt nya hem här dit jag flyttade .	L-W	test	1
+Hammer menar att man skapar egna förklaringar eftersom önskan att tro och längtan efter andlighet och mysterium är stora i dagens samhälle , och att detta beror på vår industrialiserade och skeptiska värld .	L-FL	test	0
+För det andra så tycker jag inte att det gynnar folk att tala ett språk som talas av en mindre grupp i ett samhälle , förutom från ett kulturellt perspektiv .	L-W	test	0
+På träningar brukar jag vara glad och upphetsad eftersom jag känner mig hemma .	L-W	test	0
+Jag är bra i D-svensk-stad , fastän jag alltid saknar dig .	L-W	test	1
+Nu för tiden har familjens roll förändrats jämfört med förr i tiden .	O-Comp	test	0
+Det är ingen tvekan om att rösträtten skall utvärderas och kanske bör man rösta i en folkomröstning .	L-W	test	0
+Jag tror att det skulle vara bra för oss att pengar ge men jag tror att det blir bättre för er att vi köper present en .	L-W	test	0
+Hammer påpekar att man skapar egna förklaringar eftersom önskan att tro och längtan efter andlighet och mysterium är stora i dagens samhälle , och att detta beror på vår industrialiserade och skeptiska värld .	L-W	test	1
+Hon pratade med alla gatubarn , och särskilt lyssnade hon på det annorlunda gatubarnets sorgliga livshistoria och bestämde sig för att skriva en roman om hans livshistoria .	L-W	test	0
+Jag tror att du har många optioner att träffa nya vänner .	L-W	test	1
+Det är nödvändigt att ha en plats som kan påverka dig på ett positivt sätt , för att om du mår bra kan du gå vidare och lyckas med saker som du har satt upp som mål .	L-W	test	0
+Till exempel det som händer med Desirée och Benny : även om de gillar varandra kan de inte lämna sitt plats och bo tillsammans .	L-W	test	1
+De kan hitta vänner , kanske börja lära känna nya folk , vem vet , vi kanske hittar vårt livs kärlek i en liten by i Australien , där deras språk håller på att dö .	L-W	test	1
+Jag heter Maria Svensson och jag har anmält mig till kursen i Business Administration under vinterterminen .	O-Comp	test	0
+Det är nödvändigt att ha en plats som kan påverka dig på ett positivt sätt , för att om du känner bra kan du gå vidare och lyckas med saker som du har satt upp som mål .	L-W	test	1
+På kvällen var vi vid Eiffet Tower , sedan åt vi middag på en mycket fin restaurang .	L-FL	test	1
+Våra barn och ungdomar lever och växer upp i en värld som ger väldigt många uttryckt och ständig tillgång till information från olika källor .	L-Der	test	1
+␤ I den här platsen spelar jag basket i ett damlag och coachar ett litet lag för barn mellan 4 och 6 .	L-W	test	1
+Jag heter Maria Svensson och jag har anmält mig till kursen i Business Administration för vinterterminen .	L-W	test	1
+Det som påverkar mitt välj av kläder som jag köper är ofta nya trender men också priset .	L-W	test	1
+För det andra finns det många personal som har familj och barn och de bor med varandra .	L-W	test	1
+Kan du bjuda hemma arbetskamraterna för att fika tillsammans med dom , på helgen erbjuda dina vänner att äta middag tillsammans och försöka att prata med arbetskamraterna på rasten ?	L-W	test	1
+När jag besöker B-stad tycker jag om att promenera på sanden och äta fisk och skaldjur på en restaurang .	L-FL	test	0
+Jag tror att föräldrarnas fel beslut gjorde att Alex blev ett gatubarn .	L-Der	test	1
+En uppsättning bekväma personer utgör tillsammans rätt familjeform , oavsett vilken form det är och hur man tänker om den .	L-Der	test	1
+Jag vet att det är svårt att för tillbaka pengar men du kan försöka att hjälpa mig .	L-W	test	1
+finns och Mycket en stor tro längtan efter andlighet och en värld full av mysterium i detta ämne .	L-W	test	1
+Alla kände sig ännu mer trygga och fick mer frihet och kunde utrycka sig hur som helst och berätta om sina laster så småningom .	L-W	test	0
+Det är en kärleksstad , och jag ska åka dit många gånger med min man och min familj eftersom de är min kärlek .	L-Der	test	0
+Jag kan inte komma tillbaka till Sverige förrän efter december och därför kan jag inte gå kursen .	L-W	test	0
+Det finns många olika åsikter angående detta .	L-W	test	1
+Ja , det finns många affärer nära mitt hem , till exempel ica , apotek och frisör , och från bussen och tunnelbanan är det nära hem , lika 4 - 5 minuter .	L-W	test	1
+För det första , att rädda små språk är som att göra världens befolkning och mänskligheten hela en tjänst , eftersom det finns massor med människor i världen som har ett starkt engagemang till de små språken .  De vill resa och lära sig nya , goda och fina saker såsom att laga traditionell mat , vitsar och ordspråk .	L-W	test	1
+Från en kulle i Aten har maktens centrum utvecklat sig till ett flerpartisystem med riksdagen som centrum .	O-Comp	test	0
+Å ena sidan tycker några att det är bra att man inte är bunden med sin kärlek under en viss tid utan överens , å andra sidan tycker några att denna förändring är dålig eftersom en man kommer att demonisera över sin fru eftersom kvinnor bara kommer att ha ett uppdrag som är att de ska vara hemma med sina barn samt ta över hushållet också .	L-W	test	1
+Men för att anpassa sig till den miljö man lever i , måste man ta hänsyn till dessa krav för att kunna känna tillhörighet .	L-W	test	0
+Sist men inte minst skulle jag vilja säga att föräldrarna får tänka innan de skaffar barn för att det är inte deras barns skuld att följa sina föräldrar vart som helst bara för att de är deras föräldrar .	L-W	test	1
+I tusentals år var familjen ett fast begrepp , vilket utgjorde en enda bild , en far som jobbar och försörjer familjen själv och en mor som uppfostrar barnen och tar hand om alla familjemedlemmar och hushållarbetet , och barn som helt försörjs av familjesystemet .	L-Der	test	1
+Man kan känna sig bättre eftersom både män och kvinnor bör följa reglerna och ingen av de två vågar överskrida gränsen , anser en del .	L-Der	test	0
+T.ex. tvättar hon Alex kläder och hon är alltid orolig åt honom .	L-W	test	1
+Något som jag försöker ha i omtanke när jag klär mig är för mig att kläderna måste vara anpassade till den miljö som jag befinner mig i .	L-Der	test	1
+Därför bör dessa individer kommunicera på landets språk och inte på ett annat .	L-W	test	0
+När flera språk används i landets myndigheter och skolor , utarmas språket och därmed försvagas landets status .	L-W	test	1
+Till slut är kläder kanske ett sätt att trivas med sig själv , att förstå vissa saker men inte allt och inte en anledning till att skapa sig en uppfattning om människor .	L-W	test	0
+Låt mig säga att det är inte för sent att rädda de små språken , vi måste ta steget nu .	L-W	test	0
+Slutligen skulle jag vilja säga det att man får inte jämföra sin familj med andras familjer eftersom var och en familj har sin egen situation .	L-W	test	1
+Jag hoppas kunna lära mig snabbt och börja söka jobb .	L-Der	test	0
+Men det borde nämnas att i vår tid finns det fortfarande vissa samhällen som adopterar den traditionella inställningen av familjen .	L-W	test	1
+Den största fördelen med platsen är att jag kan integrera mig bra i samhället genom att vara bland svenska människor .	L-W	test	0
+De ta ett löfte att de ska älska varandra .	L-W	test	1
+Jag hoppas att allt är bra med dig .	L-W	test	0
+Jag ska berätta om min gamla stad som är viktig jätte för mig , och det är A-stad .	O-Comp	test	1
+I dagens läge är den förändring som har skett gällande familjens form klar för alla , och det är viktigt att vi utreder det från början .	L-W	test	0
+För mig är kläder viktigt men inte så mycket .	L-W	test	1
+Finns det verkligen en så stor skillnad mellan en 18- och en 16-åring ?	L-W	test	0
+Åström inleder texten med att berätta om unga par som hoppas på att bli bra pappor och mammor och som söker hjälp vid deras byrå , där giftermålet är något som vållar de unga paren stor vånda .	L-W	test	0
+Det finns så många i världen som inte har tillgång till skola , mat , hus eller ens något land att vara i .	L-W	test	0
+Jag anser att man ska inte oroa sig om vad andra tycker och att det som är viktigt är att ha det bra med vad man gör i livet .	L-W	test	1
+Exempelvis om jag är på jobbet måste klädseln vara anpassad till arbetsmiljön , på en fest samma sak och därigenom gäller detsamma till fritiden .	L-W	test	1
+För det andra promenerar jag ofta i parken eller går på bio för att träffa nya människor som att vara bästa vänner till mig .	L-W	test	1
+De tror att att vara gift det är mycket svårt att för de dessutom ska ansvara för andra , t.ex. om en man är gift med en kvinna bör han ge henne pengar och handla mycket mat till henne och han tänker mycket på barn .	L-Der	test	0
+Vad vi verkligen bör tillämpa är ett förbud mot främmande språk på dessa platser .	L-W	test	1
+Det är klart att det finns människor som inte har intresse för detta ämne , men ska vi verkligen lyssna på dem eller ska vi tänka på hela världens befolkning ?	L-W	test	0
+␤ Avslutningvis är kläder en viktig symbol för att kunna markera vilken grupp och kultur man tillhör .	L-Der	test	1
+När jag bodde första gången i A-land , kände jag mig så ensam .	L-W	test	0
+Jag är medlem i en förening i Sverige , och den föreningen är en basketklubb .	O-Comp	test	0
+Med alla de avbrutna utmaningarna var det en lättare väg till förändringen .	L-W	test	1
+Slutligen håller jag med för det andra synsättet eftersom min religion säger att en man ska gifta sig med en kvinna , och jag tror att en man har svårt att bo ensam , som i det första fallet , och det är konstigt för mig att det finns många typer av familjer som sambor , särbor och mambor även om jag respekterar dem alla .	L-W	test	1
+De tror att att vara gift det är mycket svårt att för de dessutom ska ansvar för andra , t.ex. om en man är gift med en kvinna bör han ge henne pengar och handla mycket mat till henne och han tänker mycket på barn .	L-Der	test	1
+Men man kan inte vara säker på att den som är i 50-årsåldern inte är lika lätt att locka för extrempartierna .	O-Comp	test	0
+Jag tycker att av kläderna kan vi förstå lite om en person , och vi kan inte vara säkra på vad vi tycker eftersom vad människor har på sig kanske inte betyder någonting för hur de är i verkligheten .	L-W	test	1
+Vissa tycker att det är verkligen onödigt att kunna eller bevara de små språk som man inte kan ha nytta av .	L-W	test	0
+Jag tycker inte att det är ett bra förslag att ge bort pengar som present för jag tror inte att pengar kommer att göra henne glad .	L-Der	test	0
+Därför anser jag att de små språken ska dö ut och låta de stora språken ta över , eftersom det blir billigare , lättare för fler människor att förstå varandra och det utesluter ett utanförskap och skapar en gemenskap bland folken .	L-Der	test	0
+Han tror lätt för att lita på andra .	L-W	test	1
+På kvällen var vi vid Eiffeltornet , sedan åt vi middag på en mycket fin restaurang .	L-W	test	0
+Men jag tycker att min klädsmak är ganska neutral och passar bra , både på jobbet och på fritiden .	L-Der	test	0
+Sammanfattningsvis kan man säga att rösträtten är en nyckelfråga för en väl fungerade demokrati och att det gynnar samhället att allt fler kan rösta .	L-Der	test	1
+För det andra promenerar jag ofta i parken eller går på bio för att träffa nya människor som kan bli bästa vänner till mig .	L-W	test	0
+Jag tycker att det är bra att vi köper en present , t.ex. kan vi köpa blommor , för att när vi ger henne blommorna blir hon glad .	L-W	test	0
+Jag tycker att det är respekt att man ger pengar i present och det har blivit som en tradition hos oss .	L-W	test	1
+Därför måste jag åka tillbaka och gifta mig .	L-W	test	0
+Om man kan fler språk har man fler möjligheter att använda sig av dem vilket leder till utveckling .	L-W	test	0
+B-stad är en liten stad och den ligger nära ocean .	L-W	test	1
+samtigits kan du gå i kyrkan , där hittar du också nya vänner .	L-W	test	1
+De tror att att vara gift det är mycket svårt att för de dessutom ska ansvara för andra , t.ex. om en man är gift med en kvinna bör han ge henne pengar och handla mycket mat till henne och han tänker mycket på barn .	L-W	test	0
+Jämför : Jag bodde på ett litet rum när jag kom till Sverige , ja , det är stora skillnader , men nu trivs jag med mitt nya hem här dit jag flyttade .	L-W	test	1
+Jag anser att när människor flyttar till ett nytt land , behöver de känna sig lite hemma , och för mig är den här föreningen som ett hem .	L-W	test	0
+Men jag anser först och främst att språket är som själen , det som ger oss livskraft , säregenhet och karaktär .	L-W	test	0
+Hjärnan tar emot ny information på ett mycket lättare sätt och bearbetar informationen snabbare vilket leder till att man direkt får djupare förståelse och insikt i det nya ämnet man arbetar med .	L-W	test	1
+Nu för tiden har familjens roll förändrats jämfört med föritiden .	O-Comp	test	1
+Skribenten berättar att cirklarna har gjort själsliga intryck på de flesta , speciellt inom religiösa grupper , eftersom deras tro angående cirklarna är att dessa är symboler för översinnlighet .	L-Der	test	0
+På somras betalade jag för en kurs i ekonomi som fanns i Petersborg .	L-W	test	1
+Jag har inte upplevt det här , men något som var typ som med har sett jag Desirée och Benny , att de inte kunde bo tillsammans för att de inte orkade lämna sina plats och jobb för att bo tillsammans .	L-W	test	1
+Den största fördelen med platsen är att jag kan integrera mig bra i samhället genom att bli bland svenska människor .	L-W	test	1
+I tusentals år var familjen ett fast begrepp , vilket utgjorde en enda bild , en far som jobbar och försörjer familjen själv och en mor som uppfostrar barnen och tar hand om alla familjemedlemmar och hushållsarbetet , och barn som helt försörjs av familjessystemet .	L-Der	test	1
+Bröllopet kommer snart och vi måste bestamma vad vi ska köpa som present .	L-W	test	1
+Alla kände sig ännu mer trygga och hade mer frihet och kunde utrycka sig hur som helst och berätta om sina laster så småningom .	L-W	test	1
+Jag tycker om många platser där men det finns en favoritplats som jag tycker om .	O-Comp	test	0
+Nu är vi i Sverige och vi saknar vårt land och vi drömmer om när vi kan åka till D-land och till parken !	L-W	test	0
+I dagens läge är den förändring som har skett gällande familjens form klar för alla , och det är viktigt att vi utreder det från början .	L-W	test	0
+Du kan registrera dig i ett sportlag .	L-W	test	0
+Men denna definition stämmer inte alltid nuförtiden eftersom det finns många avgörande faktorer som bestämmer vad ordet familj kan betyda .	L-W	test	0
+Jag heter Maria Svensson och jag har anmält mig till kursen i Business Administration under vinterterminen .	L-W	test	0
+Exempelvis om jag är på jobbet måste klädelse vara anpassad till arbetsmiljön , på en fest samma sak och därigenom gäller detsamma för fritiden .	L-Der	test	1
+Jag tror att det skulle vara bra för oss att pengar ge men jag tankar att det blir bättre för er att vi köper present en .	L-W	test	1
+För att pengar ska alltid slut , men en present kommer hon att ha kvar länge .	L-W	test	1
+Jag tycker att du har många möjligheter att träffa nya vänner .	L-W	test	1
+Romanen visar genom Fru Leti för alla människor i världen att det finns goda och dåliga människor i världen .	L-W	test	0
+Det skapas en " vi och dom känsla " eftersom vissa inte talar majoritetsspråket i landet .	O-Comp	test	1
+Till slut är kläder kanske ett sätt att trivas med sig själv , att förstå vissa saker men inte allt och inte en anledning till att skapa sig en uppfattning om människor .	L-W	test	0
+Hans mamma vill inte intressera sig för honom .	L-W	test	0
+Men vi vet redan att även de mindre välutvecklade länder , det vill säga länder som försörjer sig själva på jordbruk , håller på att ständigt utvecklas och moderniseras och kommer behöva internationellt samarbete , samordning och bidrag .	L-Der	test	0
+Hon heter Desirée och han heter Benny , och de träffas på en kyrkogård där Desirées mans grav finns .	L-W	test	1
+Därför bör dessa individer kommunicera med landets språk och inte på ett annat .	L-W	test	1
+Jag personligen lägger inte medvetet så stor vikt vid kläder , kanske för att den miljö som jag lever i eller de människor som jag umgås med inte ser kläder som något betydelsefullt .	L-W	test	0
+De som påstår att man ska sänka åldersgränsen säger att unga mognar fortare och är mer medvetna än tidigare generationer ( Johan Örjes , dn.se ) och att en del forskning visar att nuverande ungdomar visar stort engagemang i politiken och för att öka ungdomars deltagande i en demokrati ska vi ta tillvara deras engagemang och låta dem rösta .	L-W	test	1
+Det finns en tanke att sänka ålders gränsen för rösträtten till 16 år , vilket redan är gjort i flera länder , och Europarådet har antagit en resolution om att 16-åringar bör rösta i Europavalen .	O-Comp	test	1
+För det första , att rädda små språk är som att göra världens befolkning och mänskligheten hela en tjänst , eftersom det finns massor med människor i världen som har ett starkt engagemang för de små språken .  De vill resa och lära sig nya , goda och fina saker såsom att laga traditionell mat , vitsar och ordspråk .	L-W	test	0
+Därför borde vi ha respekt mot varandra och varandras känslor och behov .	L-W	test	1
+Några kunde inte gifta sig så bodde tillsammans som sambor , och andra tyckte mycket om varandra och upprätthöll sin relation som särbor .	L-W	test	1
+Jag tackar alla lärare på Sfi som hjälper oss för att vi ska kunna bli bättre på svenska språket .	L-W	test	0
+Det var en god idé för jag träffade människor och pratade med dem på tyska .	L-FL	test	0
+Människor flyttade från odling till produktion och tillverkning och allt blev dyrare med tiden .	L-Der	test	0
+␤ På den här platsen spelar jag basket i ett damlag och coachar ett litet lag för barn mellan 4 och 6 .	L-W	test	0
+Slutligen håller jag med om det andra synsättet eftersom min religion säger att en man ska gifta sig med en kvinna , och jag tror att en man har svårt att bo ensam , som i det första fallet , och det är konstigt för mig att det finns många typer av familjer som sambor , särbor och mambor även om jag respekterar dem alla .	L-W	test	0
+Det är jätteviktigt för mig för att jag ska kunna känna mer om hur man kan leva i Sverige och få jobb .	L-W	test	1
+Kan du bjuda hem arbetskamraterna för att fika tillsammans med dom , på helgen erbjuda dina vänner att äta middag tillsammans och försöka att prata med arbetskamraterna på rasten ?	L-W	test	0
+Jag inser att jag är lyckligt lottad att ha ett val när det kommer till vad jag ska ha på mig .	L-W	test	0
+Inom träningen har jag träffat många nya människor , de har hjälpt mig mycket och jag har också lärt mig väldigt viktiga saker från dem .	L-W	test	1
+Språken tynar bort av en anledning , få talar språket , många som talat språket kanske har dött och inte lärt ut det till sina barnbarn , så varför ska man hjälpa och satsa pengar på språk som försvinner när man kan göra bättre saker för pengarna ?	L-W	test	0
+A-stad ligger bland många fina berg .	L-W	test	0
+Därför måste skolan se till att vi lär oss fler än ett språk för att vi ska kunna fortsätta med den raka utvecklingen och ha en ljus framtid .	L-W	test	0
+Det är nödvändigt att ha en plats som kan påverka dig på ett positivt sätt , för att om du mår bra kan du gå vidare och lyckas i saker som du har satt upp som mål .	L-W	test	1
+Finns det verkligen en så stor skillnad mellan en 18- och en 16-åring ?	O-Comp	test	0
+I dagens läge är den förändring som har skett gällande familjens form klar för alla , och det är viktigt att vi utreder det från början .	L-W	test	0
+Det finns en tanke att sänka åldersgränsen i rösträtten till 16 år , vilket redan är gjort i flera länder , och Europarådet har antagit en resolution om att 16-åringar bör rösta i Europavalen .	L-W	test	1
+När flera språk används på landets myndigheter och skolor , utarmas språket och därmed försvagas landets status .	L-W	test	0
+Tack vare den effektiva inlärningen och bearbetningen har man dessutom tillgång till flera källor på olika språk som man till exempel kan ha nytta av i muntliga och skriftliga uppgifter i skolan .	L-W	test	0
+De tror att att vara gift det är mycket svårt att för de dessutom ska ansvara på andra , t.ex. om en man är gift med en kvinna bör han ge henne pengar och handla mycket mat till henne och han tänker mycket på barn .	L-W	test	1
+Jag tycker om många platser där men det finns en favorit plats som jag tycker om .	O-Comp	test	1
+Jag kan absolut förstå att vi inte kommer ha många funktionsdomäner i den ekonominska och tekniska världen men , som sagt , så kommer vi bevara traditioner , vilket är en av de största  vinsterna för dem och en stor vinst för oss då vi kan ha livets äventyr i deras land eller by .	L-W	test	0
+Familjen måste alltid delta i allting i livet och varje person ska veta sin roll i och utanför huset .	L-W	test	0
+Vi körde bil dit , men många människor använder buss och tåg .	L-W	test	1
+Det är nödvändigt att ha en plats som kan påverka dig på ett positivt sätt , för att om du mår bra kan du gå vidare och lyckas med saker som du har satt upp som mål .	L-W	test	0
+De tror att att vara gift det är mycket svaright att för de dessutom ska ansvara för andra , t.ex. om en man är gift med en kvinna bör han ge henne pengar och handla mycket mat till henne och han tänker mycket på barn .	L-Der	test	1
+När jag coachar de små barnen kan jag träna språket bättre , därför att de pratar lättare svenska .	L-W	test	0
+Det är en jätte fin stad .	O-Comp	test	1
+␤ Där för att författaren åkte dit och hon såg alla gatubarnen som bodde på gatorna utan någon hjälp .	O-Comp	test	1
+Jag har inte upplevt det här , men något som var typ som med har sett jag Desirée och Benny , att de inte kunde bo tillsammans för att de inte orkade lämna sina hem och jobb för att bo tillsammans .	L-W	test	0
+Man kan känna sig bättre eftersom både män och kvinnor bör följa reglerna och ingen av dem två vågar överskrida gränsen , anser en del .	L-W	test	1
+Varför ska man rädda språk som tynar bort , språk som försvinner av en anledning , språk som inte talas av många ?	L-W	test	0
+Självklart är det fint att du kan prata med dina äldre släktingar osv men man missar så många chanser om man endast håller fast i sitt minoritetsspråk , t.ex. blir det svårare att få jobb då färre personer talar det .	L-W	test	1
+Sammanfattningsvis kan man säga att rösträtten är en nyckelfråga för en väl fungerande demokrati och att det gynnar samhället att allt fler kan rösta .	L-Der	test	0
+Enligt mig avgränsar det individer i ett samhälle om de endast talar minoritetsspråket i samhället och just därför tycker jag inte att minoritetsspråk behövs .	L-Der	test	1
+Men nu när jag bor i en fin lägenhet med min family mår jag mycket bättre än förut .	L-FL	test	1
+Och enligt vad Richard Bach har skrivit är bandet som sammanbinder din sanna familj inte av blod utan av respekt och glädje för varandra .	L-W	test	0
+Basketklubben hjälper mig att ha det underbart och jag är jätteglad att jag är en del av den platsen .	O-Comp	test	0
+Ytterligare en fördel är att de får mig att känna mig som hemma eftersom de är min familj nu .	L-W	test	0
+När jag bodde i Sund hade jag inte vänner eftersom jag inte kunde svenska språket .	L-W	test	0
+Att för mig leva i ett samhälle som är mer flexibelt när det gäller klädseln gör att jag inte behöver tänka så mycket på det , men ibland anpassar jag min klädsel för de situationer som förekommer i min vardag .	L-Der	test	0
+Åström inleder texten med att berätta om unga par som hoppas på att bli bra pappor och mammor och som söker hjälp vid deras byrå , där giftermålet är något som vållar de unga paren stor vånda .	L-W	test	0
+Å ena sidan tycker några att det är bra att man inte är bunden till sin kärlek under en viss tid utan överens , å andra sidan tycker några att denna förändring är dålig eftersom en man kommer att demonisera över sin fru eftersom kvinnor bara kommer att ha ett uppdrag som är att de ska vara hemma med sina barn samt ta över hushållet också .	L-W	test	0
+I de flesta länder ( demokratiska länder ) ligger åldersgränsen på 18 år för då räknas enligt FN:s barnkonvention alla människor som vuxna och då kan man utan föräldrarnas medgivande flytta hemifrån , gifta sig osv. och i vissa länder köpa starkalkohol i affären .	L-W	test	1
+Undervisningen i demokrati och politik ska ses över och ska få en ännu mer prioriterad plats inom läroplanen .	L-W	test	1
+För det andra promenerar jag ofta i parken eller går på bio för att träffa nya människor som kan bli bästa vänner till mig .	L-W	test	0
+Det finns flera olika definitioner till begreppet familj .	L-W	test	1
+Visserligen kan du inte dansa , men försök att gå på en danskurs .	L-Der	test	0
+Samarbetning och interaktion sker på internationell nivå .	L-Der	test	1
+Jag är medlem i en förening i Sverige , och den föreningen är en basket klub .	O-Comp	test	1
+Hoppas att du gillar mitt förslag och att jag hör av dig så att jag får veta din åsikt om mitt förslag .	L-W	test	0
+Visserligen studerade jag på universitetet , men det var svårt att prata med människor lokal .	L-W	test	1
+Dessa människor har ett dilemma med hyresrätter .	L-W	test	0
+Jag anser att man måste inte oroa sig för vad andra tycker och att det som är viktigt är att ha det bra med vad man gör i livet .	L-W	test	1
+Jag ska berätta om min gamla stad som är jätteviktig för mig , och det är A-stad .	O-Comp	test	0
+Till exempel , när jag bodde i det lilla rummet mådde jag inte lika bra som nu .	L-W	test	0
+Hennes pappa gifte om sig .	L-W	test	0
+Hans bästa vän är Manuel Ballon och han har hjälpt honom i svåra tider .	L-W	test	0
+Vi har och så promenerat i skogen .	O-Comp	test	1
+När jag kom till Sverige mådde jag dåligt eftersom jag inte hade familj , vänner och grannar .	L-W	test	0
+Exempelvis om jag är på jobbet måste klädseln vara anpassad till arbetsmiljön , på en fest samma sak och därigenom gäller detsamma för fritiden .	L-W	test	0
+Därför tycker jag att vi bör införa ett förbud mot främmande språk i statliga myndigheter och föreningar .	L-W	test	0
+Med alla de avbrutna utmaningarna blev det en lättad väg till förändringen .	L-Der	test	1
+Det är svårt att lösa situationer där ens kläder och utseende kan väcka debatt .	L-W	test	1
+I texten " En modern folktro " ( Forskning och framsteg , 1998 : 4 ) inleder författaren Olav Hammer med att berätta att i Westburg , som ligger i England , har det uppstått mystiska fenomen ( cirklar i ett sädesfält ) som har väckt allas intresse och spekulationer .	L-W	test	0
+Författaren åkte på Honduras för att besöka landet .	L-W	test	1
+Författaren åkte till Honduras för att besöka landet .	L-W	test	0
+Det är bra med mig och festen gick bra men vi saknade dig på festen .	L-W	test	0
+Det är alltid bättre för dig att känna människor lokal .	L-W	test	1
+Det är en kärleksstad , och jag ska ga dit många gånger med min man och min familj eftersom de är min kärlek .	L-W	test	1
+I texten " En modern folktro " ( Forskning och framsteg , 1998 : 4 ) inleder författaren Olav Hammer med att berätta att i Westburg , som ligger i England , har det hände mystiska fenomen ( cirklar i ett sädesfält ) som har väckt allas intresse och spekulationer .	L-W	test	1
+Några kunde inte gifta sig utan bodde tillsammans som sambor , och andra tyckte mycket om varandra och upprätthöll sin relation som särbor .	L-W	test	0
+Istället bör vi satsa mer på bättre saker som leder till en förändring , saker som hjälper andra och oss , saker som kommer att påverka våra barn och barnbarn .	L-W	test	0
+Språken tynar bort av en anledning , få talar språket , många som talat språket kanske har dött och inte lärt ut det till sina barnbarn , så varför ska man hjälpa och satsa pengar på språk som försvinner när man kan göra bättre saker för pengarna ?	L-W	test	0
+Familjens form har upplevade denna utveckling och påverkats av det , vilket ställer oss inför en viktig fråga : Varför och hur har familjens roll och form förändrats med tiden ?	L-W	test	1
+I texten " Giftermål ett större steg än barn " ( Språkporten 123 , 2012 ) skriver Monika Åström om hur giftermålet för dagens föräldrar påverkar samhället när det gäller att skaffa barn och att skynda sig att hitta någon att skaffa familj med .	L-W	test	0
+Detta kan leda till mindre fientlighet , mindre kriminalitet och ett slut på segregation på jordens alla hörn .	L-W	test	1
+Människor flyttade från odling till producering och tillverkning och allt blev dyrare med tiden .	L-Der	test	1
+Samhällssystemet utvecklades och hjälpte till mer så att kvinnorna kunde försörja sig själva och leva ensamma med barn eller utan och papporna kunde göra på samma sätt .	O-Comp	test	0
+Jag personligen lägger inte medvetet så stor vikt på kläder , kanske för att den miljö som jag lever i eller de människor som jag umgås med inte ser kläder som något betydelsefullt .	L-W	test	1
+Detta förklarar Åström med att föräldrar kan man alltid vara , men att hitta någon som man ska bilda ett bra par med är viktigare om äktenskapet ska hålla .	L-W	test	1
+Till slut är kläder kanske ett sätt att trivas med sig själv , att förstå vissa saker men inte allt och inte en anledning till att skapa sig en uppfattning om människor .	L-W	test	0
+Sammanfattningsvis kan man säga att rösträtten är en nyckelfråga för en väl fungerande demokrati och att det gynnar samhället att allt fler kan rösta .	L-W	test	0
+Vi har alla någonting som är jätteviktigt för oss , och som inte kan för pengar köpas .	O-Comp	test	0
+Jag anser att man ska inte oroa sig för vad andra tycker och att det som är viktigt är att ha det bra med vad man gör i livet .	L-W	test	0
+Flera hundra av världens 7000 språk kommer att dö de närmaste decennierna .	L-W	test	0
+En uppsättning bekväma personer utgör tillsammans rätt familjeform , oavsett vilken familjeform det är och hur man tänker om den .	L-Der	test	0
+Det var en god idé för jag träffade människor och pratade med dem på tyska .	L-W	test	0
+Jag förstår att det är svårt att hitta nya vänner där men du måste hälsa på nya vänner .	L-W	test	1
+Enligt mig hade dom gynnats på många fler sätt än om de fortsatte hålla fast vid sina språk som talas utav så få personer , dessutom hade det varit enklare för folk att komma in mer i samhället om de kunde kommunicera med majoritetsbefolkningen .	L-W	test	1
+I texten " Giftermål ett större steg än barn " ( Språkporten 123 , 2012 ) skriver Monika Åström om hur giftermålet för dagens föräldrar påverkar samhället när det gäller att skaffa barn samt att skynda sig att hitta någon att skaffa familj med .	L-W	test	1
+Men Alex får en ny insikt .	L-W	test	0
+Idag finns det många typer av relationer eller förhållanden som man kan välja , bland annat samboförhållande som betyder att man bor med sin kärlek i ett förhållande utan att gifta sig , och särboförhållande som betyder att man har ett förhållande med sin kärlek utan att bo tillsammans .	L-W	test	0
+Vi har bott i många olika områden .	L-W	test	0
+En familj är del av en släkt .	L-Der	test	0
+Jag personligen lägger inte medvetet så stor vikt vid kläder , kanske för att den miljö som jag lever i eller de människor som jag umgås med inte ser kläder som något betydelsefullt .	L-W	test	0
+När jag kom till Sverige känslar sig jag dåligt eftersom jag inte hade familj , vänner och grannar .	L-W	test	1
+Vi har också promenerat i skogen .	O-Comp	test	0
+Samhället måste vara mer tolerant med människors olika kulturer och samtidigt måste människor försöka anpassa sig till det samhälle de bor i .	L-W	test	1
+Sammanfattningsvis vill jag säga att den viktigaste saken i familjen och det som är mest betydelsefullt är att visa kärlek , ömhet och att alla respekterar alla .	L-W	test	0
+Några anser att en familj innebär grupp en medlemmar som i första hand består av en fader , en moder och några syskon , medan andra anser att det innebär en grupp ” där flera av medlemmarna i familjen har genetiska eller juridiska band till varandra ” ( Vårdguiden 1177 ) .	L-W	test	0
+Mammorna tog mer ansvar för familjen , och papporna släppte ifrån sig mer ansvar .	L-W	test	0
+Jag personlig lägger inte medvetet så stor vikt vid kläder , kanske för att den miljö som jag lever i eller de människor som jag umgås med inte ser kläder som något betydelsefullt .	L-Der	test	1
+I somras betalade jag för en kurs i ekonomi som fanns i Petersborg .	L-W	test	0
+När är den bästa åldern för att börja rösta ?	L-W	test	0
+Varför ska man rädda språk som tynar bort , språk som försvinner för en anledning , språk som inte talas av många ?	L-W	test	1
+Därför började jag min i kurs tyska och jag gick till olika fester .	L-W	test	1
+Exempelvis om jag är på jobbet måste klädseln vara anpassad till arbetsmiljön , på en fest samma sak och därigenom gäller detsamma för fritiden .	L-Der	test	0
+Nu är vi i Sverige och vi saknar vårt land och vi drömmer om när vi kan gå till D-land och till parken !	L-W	test	1
+För pojkarna var det tufft att använda alla veckopengar till skulden , men de fick en läxa , att man måste ha respekt för andras arbete och egendom .	L-W	test	0
+Avslutningsvis resonerar Åström kring att ett äktenskap med ambition att få ihop kärlek , arbete och föräldraskap överlag är svårare vilket också kan betyda att man bör hålla isär kärlek och äktenskap ifall man vill vara ett äkta par och föräldrar .	L-W	test	0
+Jämför : Jag bodde i ett litet rum när jag kom till Sverige , ja , det är stora skillnader , men nu trivs jag med mitt nya hem här dit jag flyttade .	L-W	test	0
+Basketklubben hjälper mig att ha det underbart och jag är jätteglad att jag är en del av den platsen .	L-W	test	0
+Min bostad är stor och ser gul färg , ett fint hus .	L-W	test	1
+Vi brukar också köpa någonting som ska vara av guld till båda mannen och kvinnan .	L-Der	test	1
+Men denna definition stämmer inte alltid nuförtiden eftersom det finns många avgörande faktorer som bestämmer vad ordet familj kan menas med .	L-W	test	1
+På träningar brukar jag vara glad och upphetsad eftersom jag känner mig hem .	L-W	test	1
+För pojkarna var det tufft att använda alla veckopengar till skulden , men de fick en läxa , att man måste ha respekt för andras arbete och egendom .	L-W	test	0
+För vissa är det familjen , för andra ett armband , och för morfar ett äppelträd .	L-W	test	0
+Sänka åldern till 16 är en bra idé , fördelarna är stora : mer engagerade ungdomar och viktiga ungdomsfrågor lyfts på den politiska kalendern .	L-W	test	1
+Boken handlar om kärlek med två personer .	L-W	test	1
+Utifrån den här synen på av familjen definitionen konstaterar man att blodbandet inte ska avgöra vilken familj man tillhör .	L-Der	test	1
+i slutet , när bröllopet tagit slut , då lämnar vi till dom .	L-W	test	1
+Till slut är kläder kanske ett sätt att trivas med sig själv , att förstå vissa saker men inte allt och inte en anledning till att skapa sig en uppfattning för människor .	L-W	test	1
+När vi var klara med visningen av trädgården satte vi oss i marken och åt lunch .	L-W	test	1
+Kan du bjuda hem arbetskamraterna för att fika tillsammans med dom , på helgen erbjuda dina vänner att äta middag tillsammans och försöka att prata med arbetskamraterna på pause ?	L-W	test	1
+Jag tyckte att den var spännande för att romanen handlar om två personer som är kära i varandra och vill bo tillsammans , men det var också en ganska irriterande bok , för att trots att de älskar varandra orkar hon inte lämna stan och sitt jobb och han orkar inte lämna sin bonde eller gården och bo tillsammans med henne .	L-W	test	0
+De vännerna har också samma problem här .	L-W	test	0
+När jag besöker B-stad tycker jag om att promenera på sanden och äta seafood på en restaurang .	L-FL	test	1
+Om man väljer att stanna hemma finns risken att det blir till dålig ekonomi .	L-W	test	1
+Rösträtten kan skapa en tillhörighetskänsla , att ens opinion räknas .	L-W	test	1
+Till slut är kläder kanske ett sätt att mår bra med sig själv , att förstå vissa saker men inte allt och inte en anledning till att skapa sig en uppfattning om människor .	L-W	test	1
+För det andra : bjud dina grannar på fika .	L-W	test	0
+Vi har kunniga ungdomar som vi måste tro på .	L-Der	test	0
+Från en kulle i Aten har maktens centrum utvecklat sig till ett multi-parti system med riksdagen som centrum .	L-Der	test	1
+I kombination med en fyraårig mandat period säkerställs att ingen individ eller inget parti kan missbruka makten som i diktaturer eller enpartistater .	O-Comp	test	1
+Vi flyttade till Sverige 2016 .	L-W	test	0
+Åström inleder texten med att berätta om unga par som hoppas på att bli bra pappor och mammor och som söker hjälp vid deras byrå , där giftermålet är något som vållar de unga paren mycket vånda .	L-W	test	1
+den Men svåra ekonomiska situationen ledde till att detta också försvann med tiden , vilket öppnade vägen för utveckling .	L-W	test	0
+Därför tycker jag att vi bör tillämpa ett förbud mot främmande språk i statliga myndigheter och föreningar .	L-W	test	1
+Barnen som fanns hemma , och som hade olika behov som måste uppfyllas , var det viktigaste av allt , och därför började samhället så småningom acceptera en det mer att kunde finnas självständig existens för kvinnorna .	L-W	test	0
+Det finns storfamiljer och en små familjer .	O-Comp	test	0
+Varje person i detta samhälle har rätt att bo med vem man vill och var som helst , men varje land har egna lagar för vad man har för rättigheter .	L-W	test	0
+Demokrati , som på gammalgrekiska bokstavligen betyder makt till folket , har utvecklats från att inkludera några få män från elitklassen till att inkludera alla från 18 år .	O-Comp	test	0
+Detta förklarar Åström med att föräldrar kan man alltid vara , men att hitta någon som man kan bilda ett bra par med är viktigare om äktenskapet ska hålla .	L-W	test	0
+Jag tankar att det skulle vara bra för oss att pengar ge men jag tror att det blir bättre för er att vi köper present en .	L-W	test	1
+Religionen tryckte också hårt på människorna , och förändrade under lång tid utvecklingen .	L-W	test	0
+Till exempel , när jag bodde i det lilla rummet känner jag inte lika bra som nu .	L-W	test	1
+Visserligen kan du inte dansa , men försök att gå på en dansakurs .	L-Der	test	1
+Varje person i detta samhälle har rätt att bo med vem man vill och var som helst , men var och ett land har egna lagar för vad man har för rättigheter .	L-W	test	1
+Nu tycker jag att klubben är en av de viktigaste platserna som jag alltid vill vara delaktig i .	L-W	test	0
+Samhället måste vara mer tolerant gentemot människors olika kulturer och samtidigt måste människor försöka anpassa sig till det samhälle de bor i .	L-W	test	0
+Boken heter “ Grabben i graven bredvid ” och författaren heter Mariana Mazetti .	L-W	test	1
+Exempelvis om jag är på jobbet måste klädseln vara anpassad till arbetsmiljön , i en fest samma sak och därigenom gäller detsamma för fritiden .	L-W	test	1
+Nu för tiden har familjens roll förändrats jämfört med förr i tiden .	O-Comp	test	0
+Jag mår bra i D-svensk-stad , fastän jag alltid saknar dig .	L-W	test	0
+Man funderar över vad som är viktigast : barnen , att umgås med dem , att ha roligt , gå på bio , eller att gå till jobbet och tjäna extra pengar .	L-W	test	0
+Jag tycker att av kläderna kan vi förstå lite om en person , men vi kan inte vara säkra på vad vi tycker eftersom vad människor har på sig kanske inte betyder någonting för hur de är rejält .	L-W	test	1
+Jag tycker att av kläderna kan vi förstå lite om en person , men vi kan inte vara säkra om vad vi tycker eftersom vad människor har på sig kanske inte betyder någonting för hur de är i verkligheten .	L-W	test	1
+Trots att det snöar mycket i D-svensk-stad , arbetar jag varje dag .	O-Comp	test	0
+Det är bättre för mig att få mina pengar tillbaka eftersom jag kan köpa mina biljetter för de pengarna .	L-W	test	0
+Alla kände sig ännu mer trygga och fick mer frihet och kunde utrycka sig hur som helst och anger om sina laster så småningom .	L-W	test	1
+De ger ett löfte att de ska älska varandra .	L-W	test	0
+Avslutningsvis resonerar Åström om att ett äktenskap med ambition att få ihop kärlek , arbete och föräldraskap överlag är svårare vilket också kan betyda att man bör hålla isär kärlek och äktenskap ifall man vill vara ett äkta par och föräldrar .	L-W	test	1
+De tror att att vara gift det är mycket svårt att för de dessutom ska ansvara för andra , t.ex. om en man är gift med en kvinna bör han ge henne pengar och handla mycket mat for henne och han tänker mycket på barn .	L-W	test	1
+T.ex. tvättar hon Alex kläder och hon är alltid orolig för honom .	L-W	test	0
+Jag tror att det kommer att bli bra för dig .	L-W	test	0
+När är den bästa tiden för att börja rösta ?	L-W	test	1
+Finns det verkligen en så stor skillnad mellan en 18- och en 16 åring ?	O-Comp	test	1
+Då uppstår frågan om jag ska ta ett extra pass eller ett till jobb ?	L-W	test	0
+En Stor familj innehåller också farfar , mormor , farmor och morfar .	O-Comp	test	1
+Jag har lärt mig av romanen och jag överger aldrig mina nära och kära .	L-W	test	0
+Nu tycker jag att klubben är en av de viktigaste platserna som jag alltid vill vara delaktig med .	L-W	test	1
+Jag tanker att det är bra att vi köper en present , t.ex. kan vi köpa blommor , för att när vi ger henne blommorna blir hon glad .	L-W	test	1
+På Sveriges riksdags hemsida kan man läsa om hur Sverige bidrar med att skydda dessa språk i form av statligt bidrag .	L-W	test	1
+Ibland ville man fixa sig lite extra , ha bättre koll på trenderna medan man ibland inte oroade sig så mycket för det .	L-W	test	0
+De tror att att vara gift det är mycket svårt att för de dessutom ska ansvara för andra , t.ex. om en man är gift med en kvinna bör han ge henne pengar och handla mycket mat till henne och han tänker mycket på barn .	L-W	test	0
+Vi har levat i många olika områden .	L-W	test	1
+Men ändå så finns det folk som tänker och vill påpeka att man bör rädda språk som tynar bort för att inte vi ska få för få språk i världen eller för att människor som talar språken som tynar bort inte ska förlora sina förfäders språk .	L-W	test	1
+Jag tackar alla lärare i Sfi som hjälper oss för att vi ska kunna bli bättre på svenska språket .	L-W	test	1
+Jag är David och jag bor i Norrby och jag ska studera kemi på C-skola i augusti .	L-W	test	1
+Visserligen kan du inte dansa , men försök att gå på en danskurs .	L-W	test	0
+I tusentals år var familjen ett fast begrepp , vilket utgjorde en enda bild , en far som jobbar och försörjer familjen själv och en mor som uppfostrar barnen och tar hand om alla familjemedlemmar och hushållsarbetet , och barn som helt försörjs av familjesystemet .	L-W	test	0
+Där finns det jättemånga bra lärare som hjälper oss för att vi ska kunna prata och skriva på svenska .	L-W	test	0
+På träningar brukar jag vara glad och upphetsad eftersom jag känner mig hemma .	L-W	test	0
+Idag finns det olika sätt att vara familj på , till exempel bonusfamilj , kärnfamilj och en föräldrarfamilj , enligt Vårdguiden , 1177 .	L-Der	test	1
+På kvällen var vi vid Eiffeltornet , sedan åt vi middag på en mycket fin restaurang .	L-FL	test	0
+Paris är min drömplats och jag tycker mycket om att åka dit med min familj .	O-Comp	test	0
+En person som kan flera språk är som ett multiverktyg där varje del har sin egen funktion i sitt eget område .	L-W	test	1
+Enligt mig begränsar det individer i ett samhälle om de endast talar minoritetsspråket i samhället och just därför tycker jag inte att minoritetsspråk behövs .	L-Der	test	0
+Språken tynar bort av en anledning , få talar språket , många som talat språket kanske har dött och inte lärt ut det till sina barnbarn , så varför ska man hjälpa och satsa pengar på språk som försvinner när man kan göra bättre saker av pengarna ?	L-W	test	1
+Man får bara hålla sin familj kär och hoppas att man ska komma mer överens i de flesta familjer , anser jag .	L-W	test	0
+Idag finns det många typer av relationer eller förhållanden som man kan välja , bland annat samboförhållande som betyder att man vara med sin kärlek i ett förhållande utan att gifta sig , och särboförhållande som betyder att man har ett förhållande med sin kärlek utan att bo tillsammans .	L-W	test	1
+Det finns en tanke att sänka åldersgränsen för rösträtten till 16 år , vilket redan är gjort i flera länder , och Europarådet har antagit en resolution om att 16-åringar bör rösta i Europavalen .	L-W	test	0
+Visserligen säger många att skolundervisningen på elevernas hemspråk ger bättre resultat och att bemöta människor på deras språk på statliga myndigheter ger bättre service .	L-W	test	0
+Basketklubben hjälper mig att ha det underbart och jag är jätte glad att jag är en del av den platsen .	O-Comp	test	1
+den Men svåra ekonomiska situationen ledde till att detta också försvann med tiden , vilket öppnade vägen för utveckling .	L-W	test	0
+Vi brukar också köpa någonting som ska vara av guld till både mannen och kvinnan .	L-Der	test	0
+Jag tror att du har många möjligheter att träffa nya vänner .	L-W	test	0
+När du går in i trädgården , känner du dig väldigt lugn .	L-W	test	0
+För det andra så tycker jag inte att det gynnar folk att tala ett språk som talas utav en mindre grupp i ett samhälle , förutom från ett kulturellt perspektiv .	L-W	test	1
+Den största fördelen med platsen är att jag kan integrera mig bra i samhället genom att vara runt svenska människor .	L-W	test	1
+På slutet , när bröllopet tagit slut , då lämnar vi till dom .	L-W	test	0
+Men man kan inte vara säker på att den som är i 50-årsåldern inte är lika lätt att locka för extrempartierna .	L-W	test	0
+Jag upplever också att relationen till kläder och utseende är olika utifrån olika perioder i livet .	L-W	test	1
+Visserligen säger många att skolundervisningen på elevernas hemspråk ger bättre resultat och att bemöta människor på deras språk på statliga myndigheter ger bättre service .	L-W	test	0
+För det första måste jag lära mig svenska språket för att få många vänner och grannar .	L-W	test	0
+den Men svåra ekonomiska situationen ledde till att detta också försvann med tiden , vilket öppnade vägen för avancermang .	L-W	test	1
+Man förstår varandra mer än någonsin , vilket förenklar flera personers liv inom till exempel yrkeslivet och generellt om de stöter på problem i samhället .	L-W	test	0
+Familjens form har genomgått denna utveckling och påverkats av det , vilket lägga oss inför en viktig fråga : Varför och hur har familjens roll och form förändrats med tiden ?	L-W	test	1
+Om situationen blir illa måste jag känna mig stark .	L-W	test	1
+Från en kulle i Aten har maktens centrum utvecklat sig till ett flerpartisystem med riksdagen som centrum .	L-Der	test	0
+Hennes pappa gifte igen sig .	L-W	test	1
+Hans bästa vän är Manuel Ballon och han har hjälpt honom på svåra tider .	L-W	test	1
+Nu föritiden har familjens roll förändrats jämfört med förr i tiden .	O-Comp	test	1
+Det är en mycket fin stad till mig .	L-W	test	1
+Några anser att en familj innebär några medlemmar som i första hand består av en fader , en moder och några syskon , medan andra anser att det innebär en grupp ” där flera av medlemmarna i familjen har genetiska eller juridiska band till varandra ” ( Vårdguiden 1177 ) .	L-W	test	1
+Du kan också bjuda hem dina grannar för eftermiddagen på helgen .	L-W	test	1
+I de flesta länder ( demokratiska länder ) ligger åldersgränsen på 18 år för då räknas enligt FN:s barnkonvention alla människor som vuxna och då kan man utan föräldrarnas medgivande flytta hemifrån , gifta sig osv. och i vissa länder köpa starksprit i affären .	L-W	test	0
+Det kan hjläpa dem för ett bra liv .	L-W	test	1
+Å ena sidan tycker några att det är bra att man inte är bunden till sin kärlek under en viss tid utan överens , å andra sidan tycker några att denna förändring är dålig eftersom en man måste demonisera över sin fru eftersom kvinnor bara kommer att ha ett uppdrag som är att de ska vara hemma med sina barn samt ta över hushållet också .	L-W	test	1
+Språken tynar bort för en anledning , få talar språket , många som talat språket kanske har dött och inte lärt ut det till sina barnbarn , så varför ska man hjälpa och satsa pengar på språk som försvinner när man kan göra bättre saker för pengarna ?	L-W	test	1
+Alla ska få sina röster hörda , och ju bredare rösträtten är , desto jämlikare är den politiska maktfördelningen inom samhället .	L-W	test	0
+Första gången besökte jag B-stad 2014 och jag tyckte att det var den bästa platsen med mig .	L-W	test	1
+Hon blev obotligt nyfiken på Alex liv .	L-W	test	0
+Du kan bjuda kolleger för fika eftersom det är trevligt .	L-W	test	1
+Jag personligen lägger inte medvetet så stor vikt vid kläder , kanske för att den miljö som jag lever i eller de människor som jag umgås med inte ser kläder som något betydelsefullt .	L-Der	test	0
+Nu tycker jag att klubben är en av de viktigaste platserna som jag alltid vill vara delaktig i .	L-Der	test	0
+Visserligen säger många att skolundervisningen på elevernas hemspråk ger bättre resultat och att bemöta människor med deras språk på statliga myndigheter ger bättre service .	L-W	test	1
+Peter Svensson heter jag och jag har anmält mig till en kurs på Arbetsförmedlingen .	L-W	test	0
+Jag tyckte att den var spännande för att romanen handlar om två personer som är kära i varandra och vill bo tillsammans , men det var också en ganska irriterande bok , för att trots att de älskar varandra orkar hon inte lämna stan och sitt jobb och han orkar inte lämna sin bonde eller gården och bo tillsammans med henne .	L-W	test	0
+Det är en kärlek stad , och jag ska åka dit många gånger med min man och min familj eftersom de är min kärlek .	L-Der	test	1
+␤ Därför att författaren åkte dit och hon såg alla gatubarnen som bodde på gatorna utan någon hjälp .	O-Comp	test	0
+Utanför att det kostar enormt mycket pengar så gör det ingen skillnad i samhället , eftersom det är få människor som talar språken och majoriteten av dessa är äldre människor .	L-W	test	1
+De ger ett löfte att de ska älska varandra .	L-W	test	0
+Basketklubben hjälper mig att ha det underbart och jag är jätteglad att jag är en del av den platsen .	O-Comp	test	0
+Men för att anpassa sig till den miljö man lever i , måste man ta hänsyn på dessa krav för att kunna känna tillhörighet .	L-W	test	1
+Ibland ville man fixa sig lite extra , ha bättre koll på trenderna medan man ibland inte oroade sig så mycket om det .	L-W	test	1
+På träningar brukar jag vara glad och upphetsad eftersom jag känner mig hemma .	L-W	test	0
+Författaren åkte till Honduras för att besöka landet .	L-W	test	0
+Oavsett vilken familjebildning man ingår i , måste man respektera och visa kärlek för de andra i familjen .	L-W	test	1
+Peter Svensson heter jag och jag har anmält mig till en kurs i Arbetsförmedlingen .	L-W	test	1
+Jag mår väldigt bra .	L-W	test	0
+Sverige är nu för mig och har 4 årstider , höst , vår , sommar och vinter .	L-W	test	1
+Jag har lärt mig från romanen och jag överger aldrig mina nära och kära .	L-W	test	1
+Vi körde bil dit , men många människor åker buss och tåg .	L-W	test	0
+Men det är viktigt hur man bor , för att om nonsom bor på en dålig plats är det inte bra för livet .	L-W	test	1
+För det andra promenerar jag ofta i parken eller går på bio för att träffa nya människor som kan bli bästa vänner till mig .	L-W	test	0
+Jag kommer från B-land och måste gå tillbaka till mitt land .	L-W	test	1
+Vidare kan jag använda de här aktiviteterna som erfarenheter som kommer att hjälpa mig förstå hur samhället fungerar i Sverige .	L-W	test	0
+finns och Mycket en stor tro längtan efter andlighet och en värld full av mysterium i detta sammanhang .	L-W	test	0
+På träningar brukar jag är glad och upphetsad eftersom jag känner mig hemma .	L-W	test	1
+Hoppas att du gillar mitt förslag och att jag hör av dig för att jag får veta din åsikt om mitt förslag .	L-W	test	1
+␤ I komvux träffar jag också jättemycket nya vänner .	L-W	test	1
+Författaren gick till Honduras för att besöka landet .	L-W	test	1
+Men Alex gör en ny insikt .	L-W	test	1
+Vi har alla någonting som är jätteviktigt till oss , och som inte kan för pengar köpas .	L-W	test	1
+Det var en god idéa för jag träffade människor och pratade med dem på tyska .	L-FL	test	1
+De tänkt varför : Vad hade hänt ?	L-W	test	1
+Jag personligen lägger inte medvetet så mycket vikt vid kläder , kanske för att den miljö som jag lever i eller de människor som jag umgås med inte ser kläder som något betydelsefullt .	L-W	test	1
+Då fick han bo hos sin moster men han ville inte fortsätta bo där så han rymde och bosatte sig på gatan .	L-W	test	0
+Jag kan absolut förstå att vi inte kommer ha många funktionsdomäner i den ekonominska och tekniska världen men , som sagt , så kommer vi bevara traditioner , vilket är en av de största  vinsterna för dem och en stor vinst för oss då vi kan ha livets äventyr i deras land eller by .	L-W	test	0
+Åström inleder texten med att berätta om unga par som chansar på att bli bra pappor och mammor och som söker hjälp vid deras byrå , där giftermålet är något som vållar de unga paren stor vånda .	L-W	test	1
+Detta kan dock skapa svårigheter i att kunna förbereda och undervisa ungdomar tillräckligt .	L-W	test	1
+Jag tycker att av kläderna kan vi förstå lite om en person , men vi kan inte vara säkra på vad vi tycker eftersom vad människor har på sig kanske inte betyder någonting för hur de är i verkligheten .	L-W	test	0
+B-stad är en liten stad och den ligger nära havet .	L-W	test	0
+Författaren menar att genom otaliga relationer och genom att utsättas för många separationer lär vi oss att människor är utbytbara , vilket visar sig i att självständighet är en uppskattad sak i barnuppfostran ifall man har svårt att hantera närhet och distans i en relation .	L-W	test	0
+En storfamilj innehåller också farfar , mormor , farmor och morfar .	O-Comp	test	0
+I texten " Giftermål ett större steg än barn " ( Språkporten 123 , 2012 ) skriver Monika Åström om hur giftermålet för dagens föräldrar påverkar samhället när det gäller att skaffa barn och att skynda sig att hitta någon att skaffa familj med .	L-W	test	0
+Idag finns det många typer av relationer eller förhållanden som man kan välja , bland annat samboförhållande som betyder att man bor med sin kärlek i ett förhållande utan att gifta sig , och särboförhållande som betyder att man har ett förhållande med sin kärlek utan att bo tillsammans .	L-W	test	0
+Men man kan inte bli säker på att den som är i 50-årsåldern inte är lika lätt att locka för extrempartierna .	L-W	test	1
+För det första så kostar det otroligt mycket pengar att upprätthålla dessa verksamheter som försöker hålla kvar språken .	L-Der	test	0
+Språkens historia och ursprung leder ofta till att människor för med sig en kultur som de anpassar sig till , men ett språk är ursprungligen till för att man ska förstå varandra .	L-Der	test	0
+Men för att de ska göra ett bra och medvetet val måste de få mer kunskap om hur demokrati fungerar samt man måste ge dem en mycket bra utbildning .	L-W	test	1
+Det är nödvändigt att ha en plats som kan påverka dig i ett positivt sätt , för att om du mår bra kan du gå vidare och lyckas med saker som du har satt upp som mål .	L-W	test	1
+Det är klart att det finns folk som inte har intresse för detta ämne , men ska vi verkligen lyssna på dem eller ska vi tänka på hela världens befolkning ?	L-W	test	1
+Det finns ingen tvekan om att rösträtten skall utvärderas och kanske bör man rösta i en folkomröstning .	L-W	test	1
+Traditioner som innehåller massor med fina låtar , dikter , historier osv ... Enligt min åsikt är att rädda de små språken som att rädda en hel värld och vi möjliggör för dem att ärva deras språk från generation till generation genom vår hjälp .	L-W	test	1
+Av utseendet kan vi inte förstå om man är professionell eller inte eftersom man kanske ser seriös ut bara för arbetsplatsens skull .	L-W	test	0
+De kan hitta vänner , kanske börja lära känna nya människor , vem vet , vi kanske hittar vårt livs kärlek i en liten by i Australien , där deras språk håller på att dö .	L-W	test	0
+Jag tycker att det är bra att vi köper en present , t.ex. kan vi köpa blommor , för att när vi ger henne blommorna blir hon glad .	L-W	test	0
+Det är svårt att hantera situationer där ens kläder och utseende kan väcka debatt .	L-W	test	0
+Mina vardagskläder är inte så intressanta därför att jag väljer att ha på mig dem som är bekvämast och okomplicerade i färger och mönster .	O-Comp	test	0
+Ytterligare en fördel är att de får mig att känna mig som hem eftersom de är min familj nu .	L-W	test	1
+Barnen som fanns hemma , och som hade olika behov som måste uppfyllas , var det viktigaste än allt , och därför började samhället så småningom acceptera en det mer att kunde finnas självständig existens för kvinnorna .	L-W	test	1
+Hon pratade med alla gatubarn , och särskilt lyssnade hon på det annorlunda gatubarnets sorgliga livshistoria och bestämde sig för att skriva en roman om hans livshistoria .	L-W	test	0
+Våra barn och ungdomar lever och växer upp i en värld som ger väldigt många intryck och ständig tillgång till information från olika källor .	L-Der	test	0
+Första gången besökte jag B-stad 2014 och jag tyckte att det var den bästa platsen för mig .	L-W	test	0
+I tusentals år hade familjen ett fast begrepp , vilket utgjorde en enda bild , en far som jobbar och försörjer familjen själv och en mor som uppfostrar barnen och tar hand om alla familjemedlemmar och hushållsarbetet , och barn som helt försörjs av familjesystemet .	L-W	test	1
+Jag vet att det är svårt att få tillbaka pengar men du kan försöka att hjälpa mig .	L-W	test	0
+Kan du bjuda hem arbetskamraterna för att fika tillsammans med dom , på helgen erbjuda dina vänner att äta middag tillsammans och försöka att prata med arbetskamraterna på rasten ?	L-W	test	0
+Visst är det fint att folk försöker hålla hårt i sin kultur , men enligt mig är jobbet som behövs betydligt mycket större än vinsten med räddning av ett minoritetsspråk .	L-W	test	0
+Boken heter “ Grabben i graven bredvid ” och författaren heter Katarina Mazetti .	L-W	test	0
+Åström inleder texten med att berätta om unga par som hoppas på att bli bra pappor och mammor och som söker hjälp vid deras byrå , där giftermålet är något som vållar de unga paren stor vånda .	L-W	test	0
+Vi alla får tänka på det innan vi hamnar i en farlig situation , tycker jag .	L-W	test	0
+Men för att de ska göra ett bra och medvetet val måste de få mer kunskap om hur demokrati fungerar och man måste ge dem en mycket bra utbildning .	L-W	test	0
+Man funderar över var som är viktigast : barnen , att umgås med dem , att ha roligt , gå på bio , eller att gå till jobbet och tjäna extra pengar .	L-W	test	1
+Det är det äkta begreppet om familjen .	L-W	test	1
+För pojkarna var det tufft att använda alla veckopengar till skulden , men de fick en läxa , att man måste ha respekt mot andras arbete och egendom .	L-W	test	1
+Familjens form har genomgått denna utveckling och påverkats av det , vilket ställer oss inför en viktig fråga : Varför och hur har familjens roll och form förändrats med tiden ?	L-W	test	0
+Jag hoppas att du ger med mig .	L-W	test	1
+Jag tror att du har många möjligheter att träffa nya vänner .	L-W	test	0
+För det första så kostar det otroligt mycket pengar att hålla dessa verksamheter som försöker hålla kvar språken .	L-Der	test	1
+Det var lugn och ro och jag kan inte vänta att åka dit nästa gång .	L-W	test	1
+För det andra promenerar jag ofta i parken eller går på bio för att träffa nya människor som kan bli bästa vänner för mig .	L-W	test	1
+Å ena sidan tycker några att det är bra att man inte är bunden till sin kärlek under en viss tid utan överens , å andra sidan tycker några att denna förändring är dålig eftersom en man kommer att demonisera över sin fru eftersom kvinnor bara kommer att ha ett uppdrag som är att de ska vara hemma med sina barn samt ta över hushållet också .	L-W	test	0
+Våra barn och ungdomar lever och växer upp i en värld som ger väldigt mycket intryck och ständig tillgång till information från olika källor .	L-W	test	1
+Man kan känna sig bättre eftersom båda män och kvinnor bör följa reglerna och ingen av de två vågar överskrida gränsen , anser en del .	L-Der	test	1
+Boken handlar om kärlek mellan två personer .	L-W	test	0
+Jag kan absolut förstå att vi inte kommer ha många funktionsdomäner i den ekonominska och tekniska världen men , som sagt , så kommer vi bevara traditioner , vilket är en av de bästa  vinsterna för dem och en stor vinst för oss då vi kan ha livets äventyr i deras land eller by .	L-W	test	1
+Visst är det fint att folk försöker hålla hårt i sin kultur , men enligt mig är jobbet som behövs betydligt mycket större än utvinnandet med räddning av ett minoritetsspråk .	L-W	test	1
+I början var det byteshandel , men med tiden kom pengar till .	L-W	test	0
+Kan du bjuda hem arbetskamraterna för att fika tillsammans med dom , på helgen erbjuda dina vänner att äta middag tillsammans och försöka att prata med arbetskamraterna på rasten ?	L-W	test	0
+Samhället systemet utvecklades och hjälpte till mer så att kvinnorna kunde försörja sig själva och leva ensamma med barn eller utan och papporna kunde göra på samma sätt .	L-Der	test	1
+För det andra finns det många personer som har familj och barn och de bor med varandra .	L-W	test	0
+Du ska gå med dina arbetskamrater på lunch eller ibland på fika .	L-W	test	0
+Visserligen säger många att skolundervisningen på elevernas hemspråk ger bättre resultat och att bemöta människor på deras språk i statliga myndigheter ger bättre service .	L-W	test	1
+Du ska gå med dina arbetskamrater på lunch eller ibland för fika .	L-W	test	1
+Exempelvis om jag är på jobbet måste klädseln vara anpassad till arbetsmiljön , på en fest samma sak och därigenom gäller detsamma för fritiden .	L-W	test	0
+Inom träningen har jag träffat många nya människor , de har hjälpt mig mycket och jag har också lärt mig väldigt viktiga saker av dem .	L-W	test	0
+Och enligt vad Richard Bach har skrivit är bandet som sammanbinder din sanna familj inte av blod utan av respekt och glädje i varandra .	L-W	test	1
+Författaren menar att utifrån otaliga relationer och genom att utsättas för många separationer lär vi oss att människor är utbytbara , vilket visar sig i att självständighet är en uppskattad sak i barnuppfostran ifall man har svårt att hantera närhet och distans i en relation .	L-W	test	1
+Jag ska börja kursen från oktober .	L-W	test	1
+Vissa tycker att det är verkligen onödigt att kunna eller bevara de små språk som man ej kan ha nytta av .	L-W	test	1
+Det kan vara kroppsspråk men främst sker det i talet .	L-W	test	1
+I början blev det byteshandel , men med tiden kom pengar till .	L-W	test	1
+Det spenderas absurda mängder pengar på ett fåtal människor som egentligen inte behöver dessa tjänster .	L-W	test	0
+Mitt hus har 4 rum och 3 sovrum , 2 bil garage och ett kök .	O-Comp	test	1
+Hon heter Desirée och han heter Benny , och de träffas på en kyrkogård där Desirées mans grav ligger .	L-Der	test	0
+De som undervisar bör väcka intresse för demokrati och politik i sina elever .	L-W	test	1
+När du går in på trädgården , känner du dig väldigt lugn .	L-W	test	1
+Till slut är kläder kanske ett sätt att trivas med sig själv , att förstå vissa saker men inte allt och inte en anledning till att skapa sig en åsikt om människor .	L-W	test	1
+Det är en kärleksstad , och jag ska åka dit många gånger med min man och min familj eftersom de är min kärlek .	L-W	test	0
+Tillslut får han höra sin mammas röst även om det inte var bra .	O-Comp	test	1
+Alla människor har rätt att bo i en bra plats .	L-W	test	1
+Jag tycker att av kläderna kan vi förstå lite om en person , men vi kan inte vara säkra på vad vi tycker eftersom vad människor har på sig kanske inte betyder någonting om hur de är i verkligheten .	L-W	test	1
+Det finns ett stort mall där man kan köpa alla varor .	L-W	test	1
+Att för mig leva i ett samhälle som är mer flexibelt när det gäller klädseln gör att jag inte behöver tänka så mycket på det , men ibland anpassar jag min klädelse för de situationer som förekommer i min vardag .	L-Der	test	1
+En person som kan flera språk är som ett multiverktyg där varje del har sin egen funktion på sitt eget område .	L-W	test	0
+För det första , att rädda små språk är som att göra världens befolkning och mänskligheten hela en tjänst , eftersom det finns massor med folk i världen som har ett starkt engagemang för de små språken .  De vill resa och lära sig nya , goda och fina saker såsom att laga traditionell mat , vitsar och ordspråk .	L-W	test	1
+Paris är min dromm plats och jag tycker mycket om att åka dit med min familj .	O-Comp	test	1
+Ruinen ligger mellan D-land och B-land och den hade inte tak och bara fyra väggar .	L-W	test	1
+Sist men inte minst skulle jag vilja säga att föräldrarna får tänka innan de skaffar barn för att det är inte deras barns skyldighet att följa sina föräldrar vart som helst bara för att de är deras föräldrar .	L-W	test	0
+␤ Flerspråkighetsförmågan gynnar oss även på arbetsmarknaden .	L-W	test	1
+Till pojkarna var det tufft att använda alla veckopengar till skulden , men de fick en läxa , att man måste ha respekt för andras arbete och egendom .	L-W	test	1
+Jag tyckte att den var spännande för att romanen handlar om två personer som är kära i varandra och vill bo tillsammans , men det var också en ganska irriterande bok , för att även om de älskar varandra orkar hon inte lämna stan och sitt jobb och han orkar inte lämna sin bonde eller gården och bo tillsammans med henne .	L-W	test	1
+Men nu när jag bor i en fin lägenhet med min familj mår jag mycket bättre än förut .	L-FL	test	0
+Där finns människor med samma intressioner .	L-Der	test	1
+Den del av människor har ett dilemma med hyresrätter .	L-W	test	1
+Hans mamma vill inte intressera sig till honom .	L-W	test	1
+Jag tycker att av kläderna kan vi förstå lite om en person , men vi kan inte vara säkra på vad vi tycker eftersom vad människor har på sig kanske inte betyder någonting för hur de är i verkligheten .	L-W	test	0
+Familjen måste alltid delta i allting i livet och varje person ska veta sin roll i och utav huset .	L-W	test	1
+Religionen tryckte också hårt på människorna , och förändrade för lång tid utvecklingen .	L-W	test	1
+Jag tycker att från kläderna kan vi förstå lite om en person , men vi kan inte vara säkra på vad vi tycker eftersom vad människor har på sig kanske inte betyder någonting för hur de är i verkligheten .	L-W	test	1
+Det går bra med mig och festen gick bra men vi saknade dig på festen .	L-W	test	1
+Men nu när jag bor i en fin plan med min familj mår jag mycket bättre än förut .	L-W	test	1
+Där finns det jättemycket bra lärare som hjälper oss för att vi ska kunna prata och skriva på svenska .	L-W	test	1
+De göra inget dilemma med hyresrätter .	L-W	test	1
+På kvällen var vi till Eiffeltornet , sedan åt vi middag på en mycket fin restaurang .	L-W	test	1
+Därför inser jag att de små språken ska dö ut och låta de stora språken ta över , eftersom det blir billigare , lättare för fler människor att förstå varandra och det utesluter ett utanförskap och skapar en gemenskap bland folken .	L-Der	test	1
+Vi måste stanna där så att smugglaren kunde hitta en båt och vi kunde åka till A-land .	L-W	test	0
+Nu för tiden är pengarna en jätte viktigt del av alla människoliv .	O-Comp	test	1
+Yttre egenskaper : När romanen har slutat är han 13 år .	L-W	test	1
+Det var mycket tydligt och jag kände mig intresserad .	L-Der	test	0
+Jag tror att du förstår mitt problem så att du även kan ta borta mig från kursen .	L-Der	test	1
+Författaren menar att genom otaliga relationer och genom att utsättas för många separationer lär vi oss att människor är utbytbara , vilket visar sig i att självständighet är en uppskattad sak i barnuppfostran ifall man har svårt att hantera närhet och distans i en relation .	L-W	test	0
+Du kan också bjuda hem dina grannar på eftermiddagen på helgen .	L-W	test	0
+Vi alla får tänka på det innan vi hamnar till en farlig situation , tycker jag .	L-W	test	1
+Och när jag har tid kan jag leka med min syster , men ibland bråkar jag bara med min syster , det är inte bra .	L-W	test	0
+Det var en god idé för jag träffade människor och pratade med dem i tyska .	L-W	test	1
+Det finns flera olika definitioner av begreppet familj .	L-W	test	0
+Tack vare den effektiva inlärningen och bearbetningen har man dessutom tillgång till flera källor på olika språk som man till exempel kan ha nytta av på muntliga och skriftliga uppgifter i skolan .	L-W	test	1
+Ruinen ligger mellan D-land och B-land och den hade inte tak utan bara fyra väggar .	L-W	test	0
+När han får barn fruktar han att barnet ska döda , och dessutom när de tar ut skilsmässa ska hon ha hälften av det som är hans .	L-W	test	1
+I somras betalade jag för en kurs i ekonomi som lågt i Petersborg .	L-W	test	1
+Men det är viktigt hur man bor , för att om man bor på en dålig plats är det inte bra för livet .	L-W	test	0
+Det är ingen tvekan om att rösträtten skall utvärderas och kanske bör man rösta i en folkomröstning .	L-FL	test	0
+␤ Med hur man ser ut kan vi förstå några saker men inte allt .	L-W	test	1
+Romanen visar med Fru Leti för alla människor i världen att det finns goda och dåliga människor i världen .	L-W	test	1
+På natten var vi vid Eiffeltornet , sedan åt vi middag på en mycket fin restaurang .	L-W	test	1
+Jag tackar alla lärare på Sfi som hjälper oss för att vi ska kunna bli bättre i svenska språket .	L-W	test	1
+Med alla de avbrutna utmaningarna blev det en lättare väg till förändringen .	L-Der	test	0
+␤ Flerspråkighet gynnar oss även på arbetsmarknaden .	L-W	test	0
+Mammorna tog mer ansvar på familjen , och papporna släppte ifrån sig mer ansvar .	L-W	test	1
+Exempelvis om jag är på jobbet måste klädseln vara anpassad till arbetsmiljön , på en fest samma sak och därigenom gäller detsamma för fritiden .	L-Der	test	0
+Det är en kärlek stad , och jag ska åka dit många gånger med min man och min familj eftersom de är min kärlek .	O-Comp	test	1
+Allt är bra , föratt jag kan inte bo ensam och min mamma lagar så bra mat .	O-Comp	test	1
+I tusentals år var familjen ett fast begrepp , vilket utgjorde en enda bild , en far som jobbar och försörjer familjen själv och en mor som uppfostrar barnen och tar hand om alla familjemedlemmar och hushållsarbetet , och barn som helt försörjs av familjesystemet .	L-Der	test	0
+För föräldrarnas felaktiga beslut blev hon ett gatubarn .	L-W	test	1
+Jag kommer från B-land och måste åka tillbaka till mitt land .	L-W	test	0
+För pojkarna var det tufft att använda alla veckopengar till skulden , men de fick en läxa , att man måste ha respekt för andras arbete och egendom .	L-W	test	0
+Idag finns det olika sätt att vara familj på , till exempel bonusfamilj , kärnfamilj och en föräldrarfamilj , enligt Vårdguiden , 1177 .	O-Comp	test	1
+Jag är väldigt bra .	L-W	test	1
+Hon pratade med alla gatubarn , och speciell lyssnade hon på det annorlunda gatubarnets sorgliga livshistoria och bestämde sig för att skriva en roman om hans livshistoria .	L-W	test	1
+Det finns många olika åsikter om detta .	L-W	test	0
+Varje person i detta samhälle har rätt att bo med vem man vill och var som helst , men varje land har egna lagar för vad man har för rättigheter .	L-W	test	0
+Utifrån den här synen på av familjen definitionen konstaterar man att blodsbandet inte ska avgöra vilken familj man tillhör .	L-Der	test	0
+Det är alltid bättre för dig att känna människor från orten .	L-W	test	0
+Om man väljer att stanna hemma finns risken att det leder till dålig ekonomi .	L-W	test	0
+Jag är glad att du känner dig bra i Stockholm .	L-W	test	1
+För det andra promenerar jag ofta på parken eller går på bio för att träffa nya människor som kan bli bästa vänner till mig .	L-W	test	1
+Hon blev obot nyfiken på Alex liv .	L-Der	test	1
+Att kunna ett språk är en av de viktigaste och värdefullaste egenskaper en människa kan ha så det är värt mer än vad man tror .	L-W	test	0
+Familjen måste alltid delta i allting i livet och varje person ska veta sin roll inom och utanför huset .	L-W	test	1
+Jag tycker att det är bra att vi köper en present , t.ex. kan vi köpa blommor , för att när vi ger henne blommorna är hon glad .	L-W	test	1
+Demokrati , som på gammal grekiska bokstavligen betyder makt till folket , har utvecklats från att inkludera några få män från elitklassen till att inkludera alla från 18 år .	O-Comp	test	1
+Idag finns det många typer av relationer eller förhållanden som man kan välja , bland annat sambo som betyder att man bor med sin kärlek i ett förhållande utan att gifta sig , och särboförhållande som betyder att man har ett förhållande med sin kärlek utan att bo tillsammans .	L-W	test	1
+Att kunna ett språk är en av de viktigaste och guldvädra egenskaper en människa kan ha så det är värt mer än vad man tror .	L-W	test	1
+Och när jag har tid kan jag spella med min syster , men ibland bråkar jag bara med min syster , det är inte bra .	L-W	test	1
+Skribenten berättar att cirklarna har gjort själsliga intryck på de flesta , speciellt inom religiösa grupper , eftersom deras troende angående cirklarna är att dessa är symboler för översinnlighet .	L-Der	test	1
+Idag finns det många typer av relationer eller förhållanden som man kan välja , bland annat samboförhållande som betyder att man bor med sin kärlek i ett förhållande utan att gifta sig , och särboförhållande som betyder att man har ett förhållande med sin kärlek utan att bo tillsammans .	L-W	test	0
+Det var lugn och ro och jag längtar efter att åka dit nästa gång .	L-W	test	0
+En familj är del av en släktingar .	L-Der	test	1
+Å ena sidan tycker några att det är bra att man inte är bunden till sin kärlek under en viss tid utan överens , å andra sidan tycker några att denna förändring är dålig eftersom en man kommer att demonisera över sin fru eftersom kvinnor bara kommer att ha ett uppdrag som är att de ska vara hemma med sina barn samt ta över hushållet också .	L-W	test	0
+Därmed är alla andra samlevnadsformer acceptabella .	L-Der	test	1
+Du kan registrera din själv i ett sportlag .	L-W	test	1
+Men man kan inte vara säker på att den som är i 50-årsåldern inte är lika lätt att locka för extrempartierna .	L-W	test	0
+Tänk positivt istället så kommer du att hitta många betydelsefulla saker inom din familj .	L-W	test	0
+Det som påverkar mitt val av kläder som jag köper är ofta nya trender men också priset .	L-W	test	0
+Därför började jag min i kurs tyska och jag gick på olika fester .	L-FL	test	0
+Ytterligare en fördel är att de får mig att känna mig som hemma eftersom de är min familj nu .	L-W	test	0
+Skribenten berättar att cirklarna har gjort själsliga intryck på de flesta , speciellt inom religiösa grupper , eftersom deras tro angående cirklarna är att dessa är symboler för översinnlighet .	L-W	test	0
+Idag finns det många typer av relationer eller förhållanden som man kan välja , bland annat samboförhållande som betyder att man bor med sin kärlek i ett förhållande utan att gifta sig , och särboförhållande som betyder att man har ett förhållande med sin kärlek utan att bo tillsammans .	L-W	test	0
+Jag heter Maria Svensson och jag har anmält mig till kursen i Business Administration under vinter semester .	L-W	test	1
+Kom ihåg att de båda gillar konst , så det skulle vara bra om vi köpte en stor , vacker tavla som de kan hänga i sitt nya hus .	L-W	test	0
+Jag hoppas kunna lära mig snabbt och börja söka jobba .	L-Der	test	1
+Nu tycker jag att klubben är en av de viktigaste platserna som jag alltid vill vara delakting i .	L-Der	test	1
+Hans mamma vill inte intresserad sig för honom .	L-Der	test	1
+Djur förstår sina egna barn men man förstår dem inte .	L-W	test	1
+Man får bara hålla sin familj kär och hoppas att man ska finnas mer överens i de flesta familjer , anser jag .	L-W	test	1
+Från A-stad åker jag till min lilla by som heter C-stad och den ligger 2 timmar från A-stad med bil .	L-W	test	0
+Detta sker varje dag .	L-W	test	1
+Romanen visar genom Fru Leti för alla människor i världen att det finns goda och dåliga människor i världen .	O-Comp	test	0
+Detta kan dock skapa svårigheter med att kunna förbereda och undervisa ungdomar tillräckligt .	L-W	test	0
+Det finns också lekplatser för barnen .	L-Der	test	0
+Jag tycker inte att det är ett bra förslag att ge borta pengar som present för jag tror inte att pengar kommer att göra henne glad .	L-Der	test	1
+I andra miljöer eller i andra grupper man tillhör har klärdelse stor betydelse och påverkar hur man ser på sig själv och på andra .	L-Der	test	1
+Jag hoppas att allt är bra för dig .	L-W	test	1
+Men det är viktigt hur man bor , för att om man bor i en dålig plats är det inte bra för livet .	L-W	test	1
+Oavsett vilken familjebildning man ingår i , måste man respektera och visa kärlek till de andra i familjen .	L-W	test	0
+Man förstår varandra mer än någonsin , vilket förenklar flera personers liv inom till exempel yrkeslivet och generellt om de stöter på problem inom samhället .	L-W	test	1
+Därmed är alla andra samlevnadsformer oacceptabla .	L-Der	test	0
+finns och Mycket en stor tro längtan efter andlighet och en värld full av mysterium i detta sammanhang .	L-W	test	0
+Jag har inget speciellt förhållande till kläder .	L-W	test	0
+Skribenten berättar att cirklarna har suttit igång själsliga intryck på de flesta , speciellt inom religiösa grupper , eftersom deras tro angående cirklarna är att dessa är symboler för översinnlighet .	L-W	test	1
+Då uppstår frågan om jag ska ta ett extra pass eller ett till jobb ?	L-W	test	0
+Jag personligen lägger inte medvetet så stor vikt vid kläder , kanske för att den miljö som jag lever i eller de människor som jag umgås med inte anser kläder som något betydelsefullt .	L-Der	test	1
+Jag mår bra i D-svensk-stad , fastän jag alltid saknar dig .	L-W	test	0
+I texten " Giftermål ett större steg än barn " ( Språkporten 123 , 2012 ) skriver Monika Åström om hur giftermålet för dagens föräldrar påverkar samhället angående att skaffa barn och att skynda sig att hitta någon att skaffa familj med .	L-W	test	1
+Dem vännerna har också samma problem här .	L-W	test	1
+300 miljoner kronor är en stor summa med pengar , som jag personligen hade föredragit att istället donera till att rädda miljön , människor som lever i fattigdom eller till det engelska språket för att sprida det så att alla i världen har tillgång till att lära sig engelska i skolan .	L-W	test	0
+Det är bättre för mig att få mina pengar tillbaka eftersom jag kan köpa mina biljetter från de pengarna .	L-W	test	1
+För att de ska kunna komma ikapp de välutvecklade och moderna länderna krävs det att vi i tidig ålder lär oss fler än ett språk i skolan och där med ökar tryggheten , den ekonomiska tillväxten , kunskapen och även minskar fattigdomen med dessa förbättrade marginaler och förhållanden .	O-Comp	test	1
+Det är nödvändigt att ha en plats som kan påverka dig på ett positivt sätt , för att om du mår bra kan du gå vidare och lyckas med saker som du har satt upp som mål .	L-W	test	0
+De som påstår att man ska sänka åldersgränsen säger att unga mognar fortare och är mer medvetna än tidigare generationer ( Johan Örjes , dn.se ) och att en del forskning visar att dagens ungdomar visar stort engagemang i politiken och för att öka ungdomars deltagande i en demokrati ska vi ta tillvara deras engagemang och låta dem rösta .	L-W	test	0
+Vi måste stanna där för att smugglaren kunde hitta en båt och vi kunde åka till A-land .	L-W	test	1
+Åström inleder texten med att berätta om unga par som hoppas på att bli bra pappor eller mammor och som söker hjälp vid deras byrå , där giftermålet är något som vållar de unga paren stor vånda .	L-W	test	1
+Exempelvis om jag är på jobbet måste klädseln vara anpassad till arbetsmiljön , på en fest samma sak och därigenom gäller samma för fritiden .	L-Der	test	1
+Språkens historia och ursprung leder ofta till att människor för med sig en kultur som de anpassar sig till , men ett språk är ursprung till för att man ska förstå varandra .	L-Der	test	1
+Något som jag försöker ha i åtanke när jag klär mig är för mig att kläderna måste vara anpassade till den miljö som jag befinner mig i .	L-Der	test	0
+Hoppas du kan svara på mitt mejl snart .	L-W	test	0
+A-stad ligger i många fina berg .	L-W	test	1
+Låt oss komma samman och hjälpa dem och göra detta ämne mer aktuellt .	L-W	test	0
+Trots att det snöar mycket i D-svensk-stad , arbetar jag varjedag .	O-Comp	test	1
+Idag finns det många typer av relationer eller förhållanden som man kan välja , bland annat samboförhållande som betyder att man bor med sin kärlek i ett förhållande utan att gifta sig , och särboförhållande som betyder att man har ett förhållande med sin kärlek utan att bo tillsammans .	L-W	test	0
+Dessutom finns det tider när jag inte hinner att tänka så mycket på kläderna och inte bryr mig så mycket om vad jag ska ta på mig .	L-W	test	0
+Till exempel det som händer med Desirée och Benny : även om de gillar varandra kan de inte lämna sitt hem och bo tillsammans .	L-W	test	0
+Från en kulle i Aten har maktens centrum utvecklat sig till ett multi-parti system med riksdagen som centrum .	O-Comp	test	1
+Det kan hjlp dem till ett bra liv .	L-Der	test	1
+Det borde inte vara så , eftersom en människa är mycket mer än de kläder den har på sig .	L-W	test	0
+Avslutningsvis resonerar Åström kring att ett äktenskap med ambition att få ihop kärlek , arbete och föräldraskap överlag är svårare vilket också kan betyda att man bör hålla isär kärlek och äktenskap ifall man vill vara ett äkta par och föräldrar .	L-W	test	0
+Finns det någonting vi kan göra åt saken , ska vi ta steget eller åtminstone försöka rädda dem eller ska vi ge upp ?	L-W	test	1
+Varje person i detta samhälle har rätt att bo med vem man vill och var som helst , men varje land har egna lagar om vad man har för rättigheter .	L-W	test	1
+Alla människor har rätt att bo på en bra plats .	L-W	test	0
+Romanen visar genom Fru-Leti för alla människor i världen att det finns goda och dåliga människor i världen .	O-Comp	test	1
+Det var en bra idé för jag träffade människor och pratade med dem på tyska .	L-W	test	1
+Därför började jag min i kurs tyska och jag gick på olika fester .	L-W	test	0
+Men nu när jag bor i en fin lägenhet med min familj mår jag mycket bättre än förut .	L-W	test	0
+Jag har inget speciellt förhållande med kläder .	L-W	test	1
+Och enligt vad Richard Bach har skrivit är bandet som sammanbinder din sanna familj inte av blod men av respekt och glädje för varandra .	L-W	test	1
+Dessa människor göra ett dilemma med hyresrätter .	L-W	test	1
+Vi har kunnande ungdomar som vi måste tro på .	L-Der	test	1
+Jag mår bra .	L-W	test	0
+För det andra så tycker jag inte att det gynnar folk att tala ett språk som talas av en mindre grupp i ett samhälle , förutom från ett kulturellt perspektiv .	L-W	test	0
+Detta förklarar Åström med att föräldrar kan man alltid vara , men att hitta någon som man kan bli ett bra par med är viktigare om äktenskapet ska hålla .	L-W	test	1
+Det är jätteviktigt för mig för att jag ska kunna veta mer om hur man kan leva i Sverige och få jobb .	L-W	test	0
+Sammanfattningsvis kan man säga att rösträtten är en nyckelfråga för en väl fungerande demokrati och att det nyttar samhället att allt fler kan rösta .	L-W	test	1
+Samhällssystemet utvecklades och hjälpte till mer så att kvinnorna kunde försörja sig själva och leva ensamma med barn eller utan och papporna kunde göra på samma sätt .	L-Der	test	0
+Jag har en traditionell familj och min mamma följer den traditionella kulturen .	L-Der	test	0
+När jag bodde i Sund hade jag inte vänner eftersom jag inte vet svenska språket .	L-W	test	1
+När jag coachar dem små barnen kan jag träna språket bättre , därför att de pratar lättare svenska .	L-W	test	1
+Alla ska ha sina röster hörda , och ju bredare rösträtten är , desto jämlikare är den politiska maktfördelningen inom samhället .	L-W	test	1
+Avslutningsvis så vill jag säga att ett folk utan språk är ett folk utan hjärta och det finns massor med okunniga folk som föredrar världens tjugo största språk men senare ångrar sig .	L-W	test	1
+Jag tackar alla lärare på Sfi som hjälper oss för att vi ska kunna bli bättre på svenska språket .	L-W	test	0
+Hon heter Desirée och han heter Benny , och de träffas på en kyrkogård där Desirées mans grav ligger .	L-W	test	0
+Man kan känna sig bättre eftersom både män och kvinnor bör följa reglerna och ingen av de två vågar överskrida gränsen , anser en del .	L-W	test	0
+Nu tycker jag att klubben är en av de viktigaste platserna som jag alltid vill vara delaktig i .	L-W	test	0
+För det andra så kan vi även satsa mer pengar på att sprida engelskan om man ska tänka på att rädda språken .	L-W	test	0
+Det enda vi kan säga till sådana folk är : kom ihåg vem du är och vad du är gjord av , kom ihåg kärleken dina föräldrar gav till dig .	L-W	test	1
+Men Alex får en ny insikt .	L-W	test	0
+För det andra så kan vi även satsa mer pengar på att utbreda engelskan om man ska tänka på att rädda språken .	L-W	test	1
+Samarbete och interaktion sker på internationell nivå .	L-Der	test	0
+När han får barn fruktar han att barnet ska dö , och dessutom när de tar ut skilsmässa ska hon ha hälften av det som är hans .	L-Der	test	0
+Idag finns det olika sätt att vara familj på , till exempel bonusfamilj , kärnfamilj och enförälderfamilj , enligt Vårdguiden , 1177 .	L-Der	test	0
+För pojkarna var det tufft att lämna alla veckopengar till skulden , men de fick en läxa , att man måste ha respekt för andras arbete och egendom .	L-W	test	1
+Då fick han bo hos sin moster men han ville inte stänna bo där så han rymde och bosatte sig på gatan .	L-W	test	1
+Basketklubben hjälper mig att känna det underbart och jag är jätteglad att jag är en del av den platsen .	L-W	test	1
+Vi flyttade i Sverige 2016 .	L-W	test	1
+Det kan vara kroppsspråk men främst sker det genom talet .	L-W	test	0
+Flera hundra av världens 7000 språk håller på att dö de närmaste decennierna .	L-W	test	1
+Jag inser att jag är lycklig att ha ett val när det kommer till vad jag ska ha på mig .	L-W	test	1
+Det är en jättefin stad .	O-Comp	test	0
+Jag tror att författaren har skrivit den här boken för att visa kärlek och kanske säga att ibland blir inte allt som man vill och man behöver göra sig stark .	L-W	test	1
+Jag förstår inte hur föräldrarna kunde lämna sitt barn till ett osäkerhet och farligt liv .	L-Der	test	1
+När vi var klara med visningen av trädgården satte vi oss på marken och åt lunch .	L-W	test	0
+Men jag anser först och främst att språket är som själen , det som ger oss livskraft , säregenhet och karaktär .	L-W	test	0
+Sammanfattningsvis vill jag säga att den viktigaste saken i familjen och det som har mest betydelsefullt är att visa kärlek , ömhet och att alla respekterar alla .	L-W	test	1
+Men denna definition stämmer inte alltid nuförtiden eftersom det finns många avgörande faktorer som bestämmer vad ordet familj kan betyda .	L-W	test	0
+För det andra : bjud dina grannar för fika .	L-W	test	1
+Till slut får han höra sin mammas röst även om det inte var bra .	O-Comp	test	0
+Man får bara hålla sin familj kärlek och hoppas att man ska komma mer överens i de flesta familjer , anser jag .	L-Der	test	1
+Men nu när jag bor i en fin lägenhet med min familj känner jag mycket bättre än förut .	L-W	test	1
+På grund av föräldrarnas felaktiga beslut blev hon ett gatubarn .	L-W	test	0
+I dagens läge är den förändring som har hänt gällande familjens form klar för alla , och det är viktigt att vi utreder det från början .	L-W	test	1
+Finns det verkligen en så stor skillnad mellan en 18 och en 16-åring ?	O-Comp	test	1
+Vi har alla någonting som är jätteviktigt för oss , och som inte kan för pengar köpas .	L-W	test	0
+Jag tror att det skulle vara bra för oss att pengar ge men jag tror att det blir bättre för er att vi köper present en .	L-W	test	0
+Men jag anser först och främst att språket är som själen , det som ger oss livskraft , säregenhet och karaktärsdrag .	L-W	test	1
+Jag personligen lägger inte medvetet så stor vikt vid kläder , kanske för att den miljö som jag lever i eller de människor som jag umgås med inte ser kläder som något betydelsefullt .	L-Der	test	0
