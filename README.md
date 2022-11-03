@@ -21,4 +21,8 @@ The code base requires:
 
 # Usage
 
+ - To calculate topological features, please refer to our previous work: ["Artificial Text Detection via Examining the Topology of Attention Maps"](https://aclanthology.org/2021.emnlp-main.50.pdf). This repository also contains code for classification.
+
+ - To calculate BLiMP, use `Linguistic_minimal_pairs.ipynb`.
+
 # Cite us
