@@ -18,6 +18,8 @@ The code base requires:
  - sklearn 0.23.2
  - tqdm 4.46.0
  - transformers 4.3.0
+ 
+ To use RTD, you should install a modified Ripser++ package via `pip install git+https://github.com/ArGintum/RipserZeros.git`.
 
 # Usage
 
