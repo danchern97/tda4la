@@ -6,6 +6,19 @@ The role of the attention mechanism in encoding linguistic knowledge has receive
 
 # Dependencies
 
+The code base requires:
+
+ - python 3.8.3
+ - matplotlib 3.3.1
+ - networkx 2.5.1
+ - numpy 1.19.1
+ - pandas 1.1.1
+ - ripserplusplus 1.1.2
+ - scipy 1.5.2
+ - sklearn 0.23.2
+ - tqdm 4.46.0
+ - transformers 4.3.0
+
 # Usage
 
 # Cite us
