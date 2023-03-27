@@ -38,10 +38,25 @@ The code base requires:
 # Cite us
 
 ```
-@article{cherniavskii2022acceptability,
-  title={Acceptability Judgements via Examining the Topology of Attention Maps},
-  author={Cherniavskii, Daniil and Tulchinskii, Eduard and Mikhailov, Vladislav and Proskurina, Irina and Kushnareva, Laida and Artemova, Ekaterina and Barannikov, Serguei and Piontkovskaya, Irina and Piontkovski, Dmitri and Burnaev, Evgeny},
-  journal={arXiv preprint arXiv:2205.09630},
-  year={2022}
+@inproceedings{cherniavskii-etal-2022-acceptability,
+    title = "Acceptability Judgements via Examining the Topology of Attention Maps",
+    author = "Cherniavskii, Daniil  and
+      Tulchinskii, Eduard  and
+      Mikhailov, Vladislav  and
+      Proskurina, Irina  and
+      Kushnareva, Laida  and
+      Artemova, Ekaterina  and
+      Barannikov, Serguei  and
+      Piontkovskaya, Irina  and
+      Piontkovski, Dmitri  and
+      Burnaev, Evgeny",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-emnlp.7",
+    pages = "88--107",
+    abstract = "The role of the attention mechanism in encoding linguistic knowledge has received special interest in NLP. However, the ability of the attention heads to judge the grammatical acceptability of a sentence has been underexplored. This paper approaches the paradigm of acceptability judgments with topological data analysis (TDA), showing that the geometric properties of the attention graph can be efficiently exploited for two standard practices in linguistics: binary judgments and linguistic minimal pairs. Topological features enhance the BERT-based acceptability classifier scores by 8{\%}-24{\%} on CoLA in three languages (English, Italian, and Swedish). By revealing the topological discrepancy between attention maps of minimal pairs, we achieve the human-level performance on the BLiMP benchmark, outperforming nine statistical and Transformer LM baselines. At the same time, TDA provides the foundation for analyzing the linguistic functions of attention heads and interpreting the correspondence between the graph features and grammatical phenomena. We publicly release the code and other materials used in the experiments.",
 }
 ```
